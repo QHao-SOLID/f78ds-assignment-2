@@ -1,0 +1,1001 @@
+,AGE,GENDER,TENURE,OPERATOR,CREDIT_SCORED,LOCATION,CCARD_CNT,DAYS_ENGAGED,APPS_USED,TRX_AMOUNT,TRX_CNT,MERCHANT_CNT,MODE_1,MODE_1_CNT
+0,34.0,M,36,Apple,Yes,Urban,0,4,8.0,21.94,4,2,Car,3
+1,31.0,F,27,Apple,Yes,Urban,0,5,7.0,3.57,1,1,Car,1
+2,30.0,M,36,Apple,Yes,Urban,1,1,,2.86,1,1,Car,1
+3,34.0,F,32,Apple,Yes,Rural,2,4,2.0,7.14,1,1,Mobile top-up,1
+4,26.0,F,34,Apple,Yes,Urban,1,2,5.0,14.29,2,1,Mobile top-up,2
+5,47.0,F,19,Apple,Yes,Urban,0,5,10.0,30.3,5,4,Car,3
+6,24.0,F,34,Apple,Yes,Urban,0,11,20.0,106.62,9,7,Wallet,6
+7,34.0,F,36,Apple,Yes,Urban,2,11,11.0,25.86,4,2,Car,4
+8,45.0,F,21,Banana,Yes,Urban,0,4,17.0,109.66,4,2,Bills,2
+9,26.0,M,31,Banana,Yes,Urban,0,3,8.0,2.29,1,1,Car,1
+10,31.0,M,30,Apple,Yes,Urban,0,7,8.0,8.43,8,3,Car,5
+11,25.0,M,19,Apple,Yes,Urban,0,2,1.0,0.14,1,1,Wallet,1
+12,43.0,M,16,Apple,Yes,Rural,1,13,16.0,55.63,3,3,Bills,1
+13,20.0,F,12,Apple,Yes,Rural,0,9,17.0,71.29,7,4,Mobile top-up,4
+14,22.0,M,36,Apple,Yes,Urban,1,5,14.0,15.34,4,3,Transportation,2
+15,46.0,F,26,Apple,Yes,Urban,0,8,5.0,41.7,4,4,Bills,2
+16,41.0,M,30,Apple,Yes,Urban,0,5,4.0,126.74,5,3,Bills,3
+17,35.0,M,36,Apple,Yes,Urban,1,13,22.0,18.43,6,2,Mobile top-up,6
+18,56.0,F,35,Apple,Yes,Urban,1,8,13.0,48.72,6,4,Mobile top-up,5
+19,20.0,F,12,Apple,Yes,Rural,0,9,17.0,71.29,7,4,Mobile top-up,4
+20,33.0,F,36,Apple,Yes,Urban,3,10,8.0,3.86,7,5,Mobile top-up,3
+21,29.0,M,36,Apple,Yes,Urban,0,6,4.0,12.36,1,1,Mobile top-up,1
+22,60.0,M,36,Apple,Yes,Urban,0,9,18.0,18.32,3,2,Transportation,2
+23,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+24,34.0,F,36,Banana,Yes,Urban,1,4,4.0,0.57,1,1,Power bank,1
+25,63.0,M,24,Banana,No,Urban,0,1,3.0,2.29,2,1,Car,2
+26,21.0,F,21,Apple,Yes,Urban,2,8,5.0,21.37,5,2,Mobile top-up,4
+27,37.0,F,36,Apple,Yes,Urban,1,11,15.0,45.41,5,4,Mobile top-up,3
+28,34.0,F,36,Banana,Yes,Urban,1,4,4.0,0.57,1,1,Power bank,1
+29,26.0,M,26,Banana,Yes,Rural,0,3,19.0,2.86,2,2,Power bank,2
+30,21.0,F,21,Apple,Yes,Urban,2,8,5.0,21.37,5,2,Mobile top-up,4
+31,34.0,F,36,Apple,Yes,Urban,2,10,15.0,10.71,7,3,Power bank,6
+32,53.0,M,5,Apple,Yes,Urban,0,3,1.0,1.43,1,1,Power bank,1
+33,44.0,M,24,Banana,Yes,Urban,2,5,6.0,3.71,4,3,Car,3
+34,20.0,M,10,Apple,Yes,Urban,0,8,19.0,24.06,12,4,Gaming,6
+35,30.0,F,10,Dates,Yes,Urban,0,8,24.0,2.0,2,2,Power bank,2
+36,34.0,F,36,Apple,Yes,Rural,0,30,130.0,30.26,7,3,Mobile top-up,4
+37,26.0,M,8,Banana,Yes,Urban,0,5,10.0,1.29,3,3,Car,2
+38,25.0,M,36,Apple,Yes,Urban,0,7,5.0,55.31,3,3,Bills,2
+39,20.0,M,10,Apple,Yes,Urban,0,8,19.0,24.06,12,4,Gaming,6
+40,22.0,M,13,Banana,Yes,Urban,0,4,11.0,4.86,2,2,Mobile top-up,2
+41,38.0,M,7,Banana,Yes,Urban,0,2,3.0,0.86,1,1,Car,1
+42,23.0,F,31,Cranberry,Yes,Urban,0,7,4.0,13.21,3,2,Wallet,2
+43,20.0,M,36,Apple,Yes,Urban,0,15,32.0,44.11,5,3,Mobile top-up,5
+44,37.0,M,36,Apple,Yes,Urban,0,14,25.0,131.75,14,9,Mobile top-up,5
+45,27.0,M,36,Apple,Yes,Urban,0,1,1.0,0.86,1,1,Mobile top-up,1
+46,37.0,M,35,Apple,Yes,Urban,1,5,6.0,8.43,2,2,Car,1
+47,25.0,F,36,Dates,Yes,Urban,0,7,8.0,327.17,10,6,Car,5
+48,21.0,M,29,Cranberry,Yes,Urban,0,9,6.0,0.97,6,1,Transportation,6
+49,35.0,M,36,Apple,Yes,Urban,0,2,,1.14,1,1,Car,1
+50,34.0,F,27,Apple,Yes,Rural,1,8,13.0,87.72,8,5,Transportation,3
+51,33.0,M,36,Cranberry,Yes,Urban,0,15,9.0,7.14,9,1,Transportation,9
+52,31.0,F,36,Apple,Yes,Urban,0,5,4.0,1.71,3,1,Transportation,3
+53,24.0,F,13,Apple,Yes,Urban,0,6,3.0,27.66,4,3,Wallet,3
+54,25.0,M,36,Apple,Yes,Rural,3,7,13.0,67.87,6,4,Wallet,3
+55,33.0,M,9,Apple,Yes,Urban,0,12,10.0,72.86,13,1,Car,13
+56,34.0,M,36,Apple,Yes,Urban,1,5,6.0,77.13,6,3,Mobile top-up,3
+57,20.0,M,36,Apple,Yes,Rural,1,14,10.0,99.88,10,6,Wallet,6
+58,30.0,F,5,Banana,No,Urban,0,3,4.0,1.71,2,1,Transportation,2
+59,32.0,M,36,Apple,Yes,Rural,1,4,6.0,12.26,5,1,Mobile top-up,5
+60,26.0,M,34,Apple,Yes,Urban,2,13,11.0,15.7,6,4,Power bank,3
+61,35.0,M,22,Banana,Yes,Urban,0,17,12.0,65.0,12,3,Car,10
+62,25.0,M,36,Apple,Yes,Urban,0,17,19.0,32.56,11,6,Mobile top-up,6
+63,25.0,F,36,Apple,Yes,Urban,1,6,12.0,40.99,3,3,Mobile top-up,1
+64,28.0,F,20,Apple,Yes,Rural,0,13,7.0,76.35,9,5,Mobile top-up,7
+65,29.0,M,33,Apple,Yes,Rural,1,7,8.0,37.97,6,2,Gaming,4
+66,17.0,F,30,Apple,No,Urban,0,8,13.0,3.83,5,2,Mobile top-up,4
+67,34.0,F,24,Apple,Yes,Urban,0,6,5.0,30.69,1,1,Bills,1
+68,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+69,27.0,F,36,Apple,Yes,Urban,1,9,23.0,7.71,2,2,Mobile top-up,1
+70,33.0,M,36,Apple,Yes,Urban,1,6,4.0,16.51,2,1,Gaming,2
+71,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+72,16.0,M,2,Cranberry,No,Urban,0,11,13.0,9.49,7,3,Transportation,5
+73,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+74,26.0,M,36,Banana,Yes,Urban,0,4,4.0,10.0,4,3,Power bank,2
+75,32.0,F,7,Banana,Yes,Urban,0,6,5.0,7.25,1,1,Car,1
+76,21.0,F,21,Apple,Yes,Urban,2,8,5.0,21.37,5,2,Mobile top-up,4
+77,26.0,F,36,Apple,Yes,Rural,0,12,18.0,39.29,8,4,Mobile top-up,4
+78,25.0,M,36,Apple,Yes,Urban,0,14,16.0,25.57,13,3,Car,12
+79,29.0,F,34,Cranberry,Yes,Urban,1,18,19.0,62.03,17,9,Transportation,9
+80,22.0,M,28,Apple,Yes,Urban,0,2,3.0,1.43,1,1,Power bank,1
+81,30.0,F,29,Apple,Yes,Urban,0,7,6.0,1.0,3,3,Car,3
+82,32.0,M,33,Apple,Yes,Urban,0,23,1.0,272.85,58,7,Transportation,46
+83,34.0,M,34,Apple,Yes,Urban,0,5,4.0,89.22,9,6,Power bank,5
+84,36.0,F,29,Banana,Yes,Urban,0,2,2.0,10.0,1,1,Car,1
+85,33.0,M,36,Cranberry,Yes,Urban,0,15,9.0,7.14,9,1,Transportation,9
+86,25.0,M,32,Apple,Yes,Urban,1,2,1.0,0.86,1,1,Mobile top-up,1
+87,23.0,F,20,Apple,Yes,Urban,0,14,8.0,93.6,12,5,Mobile top-up,7
+88,42.0,M,36,Banana,Yes,Rural,0,5,2.0,20.61,2,2,Bills,1
+89,30.0,M,30,Banana,Yes,Urban,0,4,6.0,62.3,4,3,Bills,2
+90,36.0,F,21,Apple,Yes,Urban,1,6,7.0,103.95,9,5,Car,3
+91,51.0,M,28,Apple,Yes,Urban,0,4,7.0,39.82,3,3,Bills,2
+92,25.0,M,32,Apple,Yes,Urban,0,13,31.0,36.81,4,4,Bills,1
+93,23.0,F,27,Apple,Yes,Urban,1,8,12.0,19.54,4,3,Mobile top-up,3
+94,32.0,M,31,Banana,Yes,Urban,0,6,11.0,20.63,1,1,Bills,1
+95,26.0,F,36,Apple,Yes,Rural,0,9,10.0,14.14,5,1,Mobile top-up,5
+96,22.0,M,36,Apple,Yes,Urban,1,17,16.0,3.23,3,3,Power bank,1
+97,21.0,M,36,Apple,Yes,Urban,1,16,8.0,41.1,15,4,Wallet,8
+98,23.0,M,36,Banana,Yes,Urban,0,6,9.0,2.86,3,2,Car,2
+99,31.0,M,4,Banana,Yes,Urban,0,2,3.0,0.29,1,1,Car,1
+100,33.0,M,26,Apple,No,Urban,0,2,4.0,7.14,1,1,Bills,1
+101,32.0,F,12,Apple,Yes,Urban,1,9,16.0,22.06,2,2,Mobile top-up,1
+102,26.0,M,11,Cranberry,Yes,Urban,0,4,8.0,2.86,5,2,Transportation,4
+103,27.0,F,33,Banana,Yes,Urban,1,1,4.0,85.69,1,1,Wallet,1
+104,21.0,M,30,Apple,Yes,Urban,1,12,21.0,7.14,9,3,Power bank,8
+105,39.0,F,32,Apple,No,Urban,1,4,7.0,0.57,1,1,Car,1
+106,31.0,F,27,Apple,Yes,Urban,0,5,7.0,3.57,1,1,Car,1
+107,29.0,F,32,Apple,Yes,Urban,0,6,9.0,50.83,3,3,Bills,2
+108,49.0,M,36,Apple,Yes,Urban,1,8,45.0,55.34,7,7,Car,4
+109,32.0,F,35,Cranberry,Yes,Urban,0,5,1.0,11.43,1,1,Bills,1
+110,40.0,M,32,Apple,Yes,Urban,0,5,9.0,19.05,2,2,Car,1
+111,36.0,M,32,Apple,Yes,Urban,0,1,1.0,22.07,1,1,Mobile top-up,1
+112,25.0,M,34,Apple,Yes,Urban,2,21,75.0,79.59,32,9,Wallet,28
+113,40.0,M,32,Banana,Yes,Urban,1,8,11.0,40.37,3,2,Bills,2
+114,25.0,F,32,Apple,Yes,Urban,0,8,6.0,13.14,4,3,Wallet,2
+115,21.0,F,14,Banana,Yes,Urban,0,6,7.0,1.71,3,2,Power bank,3
+116,32.0,M,30,Apple,Yes,Urban,1,5,1.0,28.61,3,3,Car,2
+117,24.0,M,21,Cranberry,Yes,Urban,1,8,8.0,14.71,5,3,Mobile top-up,4
+118,47.0,M,36,Apple,Yes,Urban,1,8,12.0,16.39,5,3,Mobile top-up,4
+119,21.0,M,36,Apple,Yes,Urban,0,4,5.0,28.75,2,2,Mobile top-up,1
+120,39.0,M,35,Banana,Yes,Urban,0,6,2.0,3.43,3,2,Car,3
+121,34.0,M,32,Apple,Yes,Urban,0,14,16.0,61.83,8,7,Car,4
+122,33.0,M,14,Apple,Yes,Urban,0,5,2.0,14.63,2,2,Mobile top-up,1
+123,35.0,M,22,Banana,Yes,Urban,0,17,12.0,65.0,12,3,Car,10
+124,21.0,F,36,Apple,Yes,Urban,2,27,44.0,70.47,22,7,Mobile top-up,10
+125,29.0,M,34,Apple,Yes,Urban,0,10,19.0,140.07,8,6,Bills,3
+126,32.0,M,36,Banana,Yes,Rural,0,10,10.0,17.71,4,4,Mobile top-up,2
+127,25.0,M,35,Apple,Yes,Urban,0,18,23.0,49.57,18,3,Car,18
+128,29.0,M,5,Apple,No,Urban,0,2,5.0,8.57,1,1,Wallet,1
+129,44.0,F,12,Cranberry,Yes,Urban,0,20,48.0,47.01,3,3,Bills,1
+130,30.0,M,36,Apple,Yes,Rural,1,7,3.0,29.46,3,2,Mobile top-up,2
+131,24.0,M,14,Banana,Yes,Urban,0,15,12.0,63.82,16,5,Wallet,14
+132,37.0,M,34,Banana,Yes,Urban,2,2,,2.86,1,1,Car,1
+133,23.0,M,32,Apple,Yes,Urban,0,18,36.0,53.62,17,8,Mobile top-up,6
+134,26.0,M,36,Apple,Yes,Urban,1,12,7.0,5.97,2,2,Car,1
+135,27.0,M,33,Apple,Yes,Urban,1,10,13.0,27.59,8,3,Transportation,4
+136,28.0,M,24,Apple,Yes,Urban,0,14,20.0,87.51,9,9,Car,4
+137,20.0,F,25,Banana,Yes,Urban,0,4,3.0,0.29,1,1,Car,1
+138,28.0,M,29,Banana,Yes,Urban,0,21,20.0,52.48,15,5,Wallet,13
+139,35.0,M,36,Apple,Yes,Urban,2,5,6.0,49.43,3,3,Bills,2
+140,19.0,M,24,Apple,Yes,Rural,0,4,9.0,2.0,2,1,Mobile top-up,2
+141,30.0,M,32,Apple,Yes,Urban,0,4,12.0,0.57,2,1,Power bank,2
+142,35.0,F,31,Banana,Yes,Urban,0,8,9.0,30.14,8,3,Power bank,5
+143,37.0,M,26,Apple,Yes,Urban,0,9,11.0,20.5,2,2,Gaming,1
+144,28.0,M,21,Banana,Yes,Urban,0,20,24.0,81.99,4,4,Wallet,3
+145,29.0,M,36,Apple,Yes,Urban,0,5,12.0,18.51,2,1,Bills,2
+146,41.0,M,15,Apple,Yes,Urban,2,3,23.0,10.0,2,2,Mobile top-up,2
+147,32.0,M,29,Banana,Yes,Urban,1,1,,0.71,1,1,Car,1
+148,27.0,M,36,Apple,Yes,Urban,0,4,2.0,13.86,4,3,Car,4
+149,22.0,F,36,Apple,Yes,Urban,0,4,11.0,16.54,3,2,Car,2
+150,29.0,M,22,Apple,Yes,Urban,1,10,18.0,5.71,4,2,Power bank,3
+151,26.0,F,27,Banana,Yes,Urban,0,6,15.0,0.71,2,2,Car,2
+152,26.0,F,34,Apple,Yes,Urban,0,5,12.0,15.58,1,1,Mobile top-up,1
+153,22.0,M,36,Apple,Yes,Urban,0,4,10.0,63.77,3,2,Bills,3
+154,39.0,F,32,Apple,Yes,Urban,0,4,4.0,1.14,2,1,Transportation,2
+155,30.0,M,32,Banana,Yes,Urban,0,18,32.0,28.33,6,5,Wallet,3
+156,20.0,M,10,Apple,Yes,Urban,0,8,19.0,24.06,12,4,Gaming,6
+157,29.0,F,3,Apple,Yes,Urban,0,14,12.0,9.93,8,4,Transportation,4
+158,22.0,F,15,Banana,Yes,Rural,2,15,8.0,12.26,5,4,Mobile top-up,2
+159,30.0,F,36,Apple,Yes,Urban,1,11,16.0,46.47,10,6,Car,5
+160,40.0,F,32,Apple,Yes,Urban,0,6,4.0,1.57,2,2,Power bank,2
+161,22.0,M,36,Banana,Yes,Urban,0,17,11.0,34.6,15,7,Car,13
+162,37.0,M,30,Apple,Yes,Urban,1,2,5.0,46.08,4,4,Bills,2
+163,21.0,M,36,Apple,Yes,Urban,1,16,8.0,41.1,15,4,Wallet,8
+164,36.0,F,36,Apple,Yes,Urban,0,11,6.0,75.92,6,4,Mobile top-up,4
+165,36.0,M,32,Apple,Yes,Urban,1,4,6.0,57.74,5,4,Mobile top-up,3
+166,37.0,F,31,Apple,Yes,Urban,1,7,7.0,75.94,3,2,Car,2
+167,19.0,M,25,Apple,Yes,Rural,1,8,16.0,4.57,2,2,Mobile top-up,2
+168,39.0,M,8,Cranberry,Yes,Urban,0,12,7.0,12.24,5,2,Wallet,5
+169,43.0,M,36,Banana,Yes,Urban,0,6,9.0,46.66,5,2,Car,4
+170,59.0,M,27,Apple,Yes,Urban,1,8,10.0,23.36,2,2,Mobile top-up,1
+171,20.0,M,30,Apple,Yes,Urban,0,14,17.0,22.73,10,6,Mobile top-up,4
+172,27.0,M,14,Banana,Yes,Urban,0,3,4.0,0.29,1,1,Car,1
+173,37.0,F,19,Cranberry,Yes,Urban,0,6,7.0,22.63,1,1,Bills,1
+174,41.0,F,26,Banana,Yes,Urban,0,1,5.0,44.69,2,1,Bills,2
+175,28.0,F,36,Apple,Yes,Urban,0,7,13.0,7.14,1,1,Car,1
+176,27.0,M,36,Banana,Yes,Urban,0,3,4.0,1.43,1,1,Car,1
+177,37.0,M,22,Apple,Yes,Urban,0,8,13.0,24.86,7,4,Mobile top-up,3
+178,25.0,F,34,Apple,Yes,Urban,0,4,1.0,4.29,2,1,Car,2
+179,47.0,F,34,Apple,Yes,Urban,0,7,13.0,28.76,4,3,Mobile top-up,4
+180,21.0,F,21,Banana,Yes,Urban,0,1,1.0,2.86,1,1,Transportation,1
+181,22.0,F,30,Banana,Yes,Urban,0,7,19.0,42.73,6,4,Mobile top-up,3
+182,48.0,F,36,Apple,Yes,Urban,0,13,3.0,37.86,9,6,Car,7
+183,62.0,F,36,Apple,Yes,Urban,3,21,11.0,67.86,14,8,Wallet,6
+184,24.0,M,9,Banana,No,Urban,0,7,8.0,2.57,2,2,Car,2
+185,42.0,F,27,Apple,Yes,Urban,0,2,3.0,11.78,3,3,Car,2
+186,18.0,M,1,Banana,No,Urban,0,9,12.0,60.0,14,1,Car,14
+187,35.0,M,36,Banana,Yes,Urban,0,6,10.0,32.81,2,1,Bills,2
+188,21.0,M,36,Apple,Yes,Urban,1,16,8.0,41.1,15,4,Wallet,8
+189,26.0,M,36,Apple,Yes,Urban,0,2,1.0,20.69,1,1,Bills,1
+190,29.0,F,36,Apple,Yes,Urban,0,7,9.0,9.34,3,1,Wallet,3
+191,38.0,F,36,Apple,Yes,Urban,1,6,6.0,99.9,4,3,Bills,2
+192,26.0,M,33,Apple,Yes,Urban,1,10,13.0,26.89,6,3,Transportation,3
+193,26.0,M,36,Apple,Yes,Urban,0,5,3.0,0.57,1,1,Transportation,1
+194,21.0,M,14,Banana,Yes,Urban,0,2,4.0,59.49,3,3,Wallet,2
+195,29.0,M,22,Apple,Yes,Urban,1,10,18.0,5.71,4,2,Power bank,3
+196,45.0,F,32,Apple,Yes,Urban,1,10,19.0,64.4,6,5,Bills,4
+197,23.0,M,20,Apple,Yes,Urban,0,9,3.0,39.3,5,3,Wallet,3
+198,29.0,M,28,Banana,Yes,Urban,1,7,16.0,152.5,6,4,Bills,3
+199,32.0,F,36,Banana,Yes,Urban,0,5,12.0,3.14,3,3,Car,2
+200,35.0,F,25,Banana,Yes,Urban,0,6,7.0,34.99,3,3,Car,2
+201,21.0,M,36,Apple,Yes,Urban,0,5,9.0,24.84,4,2,Mobile top-up,3
+202,35.0,F,35,Apple,Yes,Urban,1,20,22.0,43.68,8,5,Bills,4
+203,36.0,F,36,Apple,Yes,Urban,1,17,14.0,73.26,5,5,Mobile top-up,2
+204,39.0,F,32,Apple,Yes,Urban,1,8,17.0,111.99,5,2,Bills,5
+205,24.0,F,16,Banana,Yes,Urban,0,6,1.0,5.23,1,1,Wallet,1
+206,28.0,F,23,Cranberry,Yes,Urban,0,1,1.0,7.14,1,1,Mobile top-up,1
+207,25.0,F,36,Apple,Yes,Urban,2,15,13.0,26.2,6,3,Transportation,4
+208,19.0,M,26,Apple,Yes,Urban,0,7,20.0,15.14,3,2,Car,2
+209,37.0,F,36,Apple,Yes,Urban,1,4,6.0,1.57,2,2,Car,1
+210,25.0,F,19,Apple,Yes,Urban,0,1,,1.79,1,1,Bills,1
+211,33.0,M,27,Apple,Yes,Urban,1,5,4.0,23.94,3,3,Wallet,2
+212,23.0,F,36,Apple,Yes,Urban,1,8,7.0,1.43,3,2,Transportation,2
+213,21.0,F,36,Apple,Yes,Urban,0,9,11.0,5.0,4,2,Mobile top-up,4
+214,37.0,M,36,Apple,Yes,Urban,1,3,7.0,21.43,7,2,Transportation,6
+215,23.0,M,36,Apple,Yes,Urban,0,6,8.0,6.8,4,2,Mobile top-up,3
+216,32.0,F,20,Banana,Yes,Urban,0,8,9.0,16.22,2,2,Bills,1
+217,33.0,M,22,Apple,Yes,Urban,0,7,5.0,115.73,4,3,Bills,3
+218,24.0,M,36,Cranberry,Yes,Urban,1,10,8.0,7.8,3,3,Wallet,1
+219,33.0,F,26,Banana,Yes,Urban,0,4,5.0,1.86,3,3,Car,3
+220,23.0,M,14,Banana,Yes,Urban,1,5,,0.29,1,1,Wallet,1
+221,25.0,F,22,Apple,Yes,Rural,1,13,15.0,13.0,4,3,Wallet,2
+222,34.0,M,29,Apple,Yes,Urban,1,8,9.0,54.29,7,2,Car,4
+223,21.0,F,32,Apple,Yes,Urban,0,10,12.0,18.29,6,4,Mobile top-up,3
+224,48.0,F,4,Apple,No,Urban,0,3,3.0,5.4,3,2,Mobile top-up,3
+225,42.0,F,27,Apple,Yes,Urban,1,18,32.0,66.38,21,5,Mobile top-up,19
+226,20.0,F,14,Apple,Yes,Urban,0,20,33.0,30.8,26,7,Transportation,16
+227,44.0,M,21,Apple,Yes,Urban,1,8,10.0,22.28,2,1,Mobile top-up,2
+228,44.0,M,31,Apple,Yes,Rural,2,4,2.0,5.66,2,1,Mobile top-up,2
+229,37.0,M,31,Cranberry,Yes,Urban,0,2,1.0,2.14,1,1,Car,1
+230,35.0,F,36,Dates,Yes,Urban,2,19,22.0,65.29,21,5,Wallet,9
+231,42.0,F,31,Apple,Yes,Urban,0,7,8.0,18.28,4,3,Mobile top-up,3
+232,23.0,F,26,Apple,Yes,Urban,0,10,7.0,111.75,15,6,Wallet,13
+233,34.0,M,29,Banana,Yes,Urban,0,3,1.0,4.57,3,3,Car,3
+234,40.0,F,24,Banana,Yes,Urban,0,6,10.0,117.5,7,5,Mobile top-up,3
+235,32.0,F,18,Dates,Yes,Urban,0,6,8.0,55.47,5,3,Power bank,3
+236,23.0,F,34,Apple,Yes,Urban,0,8,8.0,123.28,7,7,Wallet,4
+237,31.0,F,32,Apple,Yes,Urban,0,1,1.0,3.0,1,1,Car,1
+238,33.0,M,32,Apple,Yes,Urban,1,3,3.0,20.33,2,2,Bills,1
+239,27.0,F,14,Cranberry,Yes,Urban,0,13,7.0,27.2,12,6,Wallet,7
+240,23.0,F,20,Apple,Yes,Urban,0,14,8.0,93.6,12,5,Mobile top-up,7
+241,44.0,M,19,Apple,Yes,Urban,1,8,9.0,13.36,5,1,Mobile top-up,5
+242,38.0,F,31,Banana,Yes,Urban,0,5,10.0,37.09,2,2,Bills,2
+243,50.0,M,36,Apple,Yes,Urban,2,8,18.0,12.06,3,2,Car,3
+244,25.0,F,15,Banana,Yes,Urban,0,25,152.0,8.0,3,3,Car,2
+245,35.0,F,28,Cranberry,Yes,Urban,0,11,91.0,48.35,4,3,Car,2
+246,33.0,M,4,Apple,No,Rural,0,6,6.0,25.71,4,2,Mobile top-up,4
+247,39.0,M,2,Banana,Yes,Urban,0,2,5.0,1.29,3,3,Power bank,2
+248,28.0,M,36,Apple,Yes,Urban,1,10,16.0,3.43,3,2,Power bank,2
+249,45.0,M,25,Banana,Yes,Urban,0,3,2.0,0.29,1,1,Car,1
+250,28.0,F,36,Cranberry,Yes,Urban,0,7,8.0,1.14,1,1,Car,1
+251,34.0,F,36,Cranberry,Yes,Urban,2,10,35.0,131.9,15,3,Mobile top-up,10
+252,29.0,F,36,Apple,Yes,Rural,1,16,23.0,21.71,12,3,Mobile top-up,10
+253,36.0,F,33,Apple,Yes,Rural,0,2,4.0,14.97,1,1,Bills,1
+254,31.0,F,34,Apple,Yes,Urban,1,15,5.0,113.59,18,5,Wallet,13
+255,33.0,F,36,Banana,Yes,Urban,0,1,1.0,2.86,1,1,Car,1
+256,15.0,M,12,Cranberry,No,Urban,1,7,20.0,2.14,3,3,Mobile top-up,1
+257,21.0,M,36,Apple,Yes,Urban,0,5,8.0,3.43,3,3,Power bank,2
+258,39.0,M,35,Apple,Yes,Urban,0,6,12.0,68.69,6,4,Mobile top-up,4
+259,44.0,F,36,Apple,Yes,Urban,0,13,18.0,45.17,6,3,Mobile top-up,4
+260,21.0,M,36,Apple,Yes,Urban,1,16,8.0,41.1,15,4,Wallet,8
+261,28.0,F,36,Apple,Yes,Urban,1,6,9.0,2.71,4,4,Car,2
+262,29.0,M,36,Apple,Yes,Urban,0,10,5.0,56.09,4,3,Bills,2
+263,39.0,F,30,Banana,Yes,Urban,1,7,18.0,6.0,12,4,Transportation,6
+264,27.0,F,36,Apple,Yes,Urban,0,25,37.0,8.0,27,1,Transportation,27
+265,24.0,M,35,Banana,Yes,Urban,1,20,27.0,221.21,28,9,Car,15
+266,19.0,M,34,Banana,Yes,Urban,1,5,4.0,5.71,1,1,Wallet,1
+267,24.0,M,36,Apple,Yes,Rural,1,13,10.0,22.93,4,2,Wallet,3
+268,33.0,M,36,Banana,Yes,Urban,0,16,15.0,60.82,16,6,Transportation,10
+269,19.0,M,25,Apple,Yes,Rural,1,8,16.0,4.57,2,2,Mobile top-up,2
+270,58.0,M,34,Apple,No,Rural,0,8,11.0,18.03,3,2,Mobile top-up,3
+271,26.0,M,33,Apple,Yes,Urban,0,5,12.0,138.68,9,4,Transportation,4
+272,36.0,M,32,Apple,Yes,Urban,1,11,19.0,76.73,6,4,Mobile top-up,3
+273,37.0,F,5,Apple,Yes,Urban,0,9,16.0,80.48,8,4,Transportation,4
+274,33.0,M,22,Apple,Yes,Urban,0,4,3.0,50.83,3,2,Mobile top-up,2
+275,19.0,M,34,Banana,Yes,Urban,1,5,4.0,5.71,1,1,Wallet,1
+276,21.0,F,21,Apple,Yes,Urban,2,8,5.0,21.37,5,2,Mobile top-up,4
+277,38.0,F,36,Apple,Yes,Urban,0,6,12.0,31.41,2,2,Bills,2
+278,43.0,F,36,Apple,Yes,Urban,1,13,22.0,37.73,5,5,Mobile top-up,3
+279,42.0,M,26,Apple,Yes,Rural,1,8,16.0,56.93,5,4,Bills,3
+280,35.0,M,36,Banana,Yes,Urban,0,12,12.0,43.15,12,5,Car,11
+281,31.0,M,35,Apple,Yes,Urban,0,1,2.0,16.54,2,2,Bills,1
+282,29.0,M,28,Apple,Yes,Urban,1,12,18.0,74.91,12,8,Power bank,5
+283,27.0,F,36,Apple,Yes,Urban,3,20,16.0,337.46,15,8,Wallet,11
+284,22.0,M,32,Apple,Yes,Urban,1,4,3.0,31.33,2,1,Mobile top-up,2
+285,29.0,F,36,Apple,Yes,Rural,0,11,17.0,33.57,4,2,Mobile top-up,4
+286,19.0,M,14,Banana,Yes,Urban,0,1,2.0,1.43,1,1,Power bank,1
+287,35.0,F,22,Apple,Yes,Rural,0,11,23.0,40.61,4,3,Mobile top-up,2
+288,33.0,M,36,Apple,Yes,Rural,0,10,4.0,60.19,6,5,Wallet,3
+289,31.0,M,36,Apple,Yes,Urban,0,4,,35.77,2,1,Wallet,2
+290,38.0,F,26,Banana,Yes,Urban,0,2,1.0,4.29,2,2,Car,2
+291,67.0,M,27,Apple,Yes,Urban,0,2,5.0,10.89,4,2,Car,4
+292,21.0,M,36,Apple,Yes,Urban,1,16,8.0,41.1,15,4,Wallet,8
+293,30.0,M,29,Cranberry,Yes,Urban,1,7,15.0,155.43,3,3,Car,3
+294,22.0,M,22,Banana,Yes,Urban,0,2,,4.29,1,1,Car,1
+295,20.0,F,18,Apple,Yes,Urban,0,11,22.0,26.86,10,4,Power bank,5
+296,37.0,M,36,Apple,Yes,Urban,0,6,12.0,18.23,9,3,Mobile top-up,9
+297,43.0,M,32,Apple,Yes,Urban,0,11,19.0,42.93,5,3,Bills,3
+298,37.0,F,35,Apple,Yes,Urban,0,2,4.0,26.32,3,3,Power bank,1
+299,35.0,M,16,Apple,Yes,Urban,0,8,8.0,128.92,2,2,Mobile top-up,1
+300,26.0,M,16,Banana,Yes,Urban,0,4,,12.86,1,1,Wallet,1
+301,23.0,F,21,Apple,Yes,Rural,0,5,18.0,48.56,6,4,Mobile top-up,4
+302,29.0,M,18,Apple,Yes,Urban,1,3,5.0,60.36,3,3,Bills,1
+303,23.0,F,20,Apple,Yes,Urban,0,14,8.0,93.6,12,5,Mobile top-up,7
+304,38.0,F,32,Apple,Yes,Urban,1,13,33.0,82.09,10,5,Mobile top-up,7
+305,20.0,M,12,Cranberry,Yes,Urban,0,16,16.0,22.43,19,7,Wallet,8
+306,30.0,F,33,Banana,Yes,Urban,0,2,1.0,0.71,1,1,Car,1
+307,20.0,F,10,Apple,No,Rural,0,7,17.0,1.71,2,1,Mobile top-up,2
+308,51.0,M,22,Apple,Yes,Urban,1,7,7.0,11.71,7,2,Mobile top-up,7
+309,50.0,M,36,Apple,Yes,Urban,2,8,18.0,12.06,3,2,Car,3
+310,33.0,M,36,Cranberry,Yes,Urban,0,15,9.0,7.14,9,1,Transportation,9
+311,27.0,F,23,Apple,Yes,Urban,0,4,5.0,4.86,3,3,Power bank,2
+312,24.0,M,26,Banana,Yes,Urban,0,3,4.0,5.0,1,1,Car,1
+313,30.0,F,7,Apple,Yes,Urban,0,2,,16.03,1,1,Mobile top-up,1
+314,37.0,F,21,Apple,Yes,Urban,1,12,9.0,54.13,7,4,Mobile top-up,5
+315,35.0,F,4,Apple,Yes,Rural,0,1,2.0,19.19,1,1,Bills,1
+316,20.0,M,15,Banana,Yes,Urban,1,6,10.0,1.43,1,1,Power bank,1
+317,28.0,M,24,Banana,Yes,Urban,0,1,1.0,0.57,1,1,Power bank,1
+318,22.0,M,32,Apple,Yes,Urban,1,9,16.0,30.71,7,3,Mobile top-up,6
+319,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+320,31.0,M,31,Apple,Yes,Urban,0,10,11.0,10.0,8,2,Mobile top-up,8
+321,42.0,F,21,Apple,Yes,Urban,2,12,11.0,26.7,10,3,Mobile top-up,10
+322,36.0,M,25,Apple,Yes,Urban,0,5,3.0,0.43,1,1,Car,1
+323,41.0,M,36,Apple,Yes,Urban,1,8,16.0,126.47,7,6,Bills,3
+324,25.0,M,35,Apple,Yes,Rural,1,16,20.0,87.99,10,6,Wallet,4
+325,25.0,F,36,Dates,Yes,Urban,0,7,8.0,327.17,10,6,Car,5
+326,24.0,M,36,Apple,Yes,Urban,0,4,9.0,51.12,3,2,Bills,3
+327,49.0,F,32,Apple,Yes,Rural,0,9,36.0,58.8,5,5,Mobile top-up,3
+328,20.0,F,23,Apple,Yes,Urban,0,4,2.0,6.43,3,2,Mobile top-up,3
+329,39.0,M,25,Apple,Yes,Urban,0,3,3.0,19.93,1,1,Bills,1
+330,43.0,M,36,Apple,Yes,Urban,0,6,9.0,2.86,1,1,Mobile top-up,1
+331,34.0,F,36,Cranberry,Yes,Urban,2,10,35.0,131.9,15,3,Mobile top-up,10
+332,28.0,F,26,Apple,Yes,Urban,0,3,4.0,15.35,3,2,Mobile top-up,2
+333,24.0,M,36,Apple,Yes,Urban,0,16,20.0,19.6,5,4,Mobile top-up,4
+334,20.0,F,36,Apple,Yes,Urban,1,12,28.0,76.1,13,8,Mobile top-up,8
+335,48.0,M,10,Banana,Yes,Urban,0,16,2.0,45.94,6,3,Wallet,6
+336,21.0,M,36,Apple,Yes,Urban,1,16,8.0,41.1,15,4,Wallet,8
+337,33.0,F,34,Banana,Yes,Urban,0,7,10.0,9.98,3,2,Transportation,2
+338,30.0,M,22,Banana,Yes,Urban,0,2,3.0,8.11,2,2,Car,2
+339,33.0,F,36,Banana,Yes,Urban,0,6,8.0,1.43,2,1,Car,2
+340,38.0,F,36,Apple,Yes,Urban,1,4,7.0,2.96,1,1,Car,1
+341,21.0,M,7,Banana,Yes,Urban,0,2,5.0,2.86,5,1,Transportation,5
+342,24.0,M,17,Apple,Yes,Urban,1,9,10.0,98.32,6,4,Wallet,5
+343,26.0,M,36,Apple,Yes,Urban,1,8,12.0,20.01,2,2,Car,1
+344,20.0,F,12,Apple,Yes,Rural,0,9,17.0,71.29,7,4,Mobile top-up,4
+345,40.0,M,23,Cranberry,Yes,Urban,1,14,24.0,21.35,4,4,Car,2
+346,20.0,M,30,Apple,Yes,Urban,0,14,17.0,22.73,10,6,Mobile top-up,4
+347,34.0,F,35,Apple,Yes,Rural,1,9,12.0,22.9,2,2,Bills,2
+348,19.0,M,22,Banana,Yes,Urban,0,6,6.0,2.0,2,2,Power bank,2
+349,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+350,25.0,M,36,Apple,Yes,Urban,1,9,12.0,43.88,8,4,Transportation,5
+351,53.0,F,32,Apple,No,Urban,0,4,7.0,10.86,1,1,Mobile top-up,1
+352,34.0,M,34,Apple,Yes,Urban,1,9,11.0,62.4,6,4,Mobile top-up,5
+353,34.0,F,36,Banana,Yes,Urban,0,10,19.0,26.17,9,5,Power bank,5
+354,28.0,M,36,Apple,Yes,Urban,1,14,22.0,41.94,7,5,Mobile top-up,6
+355,26.0,M,35,Apple,Yes,Urban,1,5,13.0,12.49,2,2,Wallet,1
+356,20.0,M,36,Apple,Yes,Urban,1,14,25.0,1.69,2,2,Mobile top-up,2
+357,20.0,M,10,Apple,Yes,Urban,0,8,19.0,24.06,12,4,Gaming,6
+358,50.0,M,36,Apple,Yes,Urban,2,8,18.0,12.06,3,2,Car,3
+359,36.0,F,18,Apple,Yes,Urban,0,5,9.0,4.5,2,1,Car,2
+360,36.0,M,21,Apple,Yes,Urban,0,8,3.0,8.71,3,2,Mobile top-up,2
+361,41.0,F,20,Apple,Yes,Urban,1,12,32.0,54.47,5,5,Mobile top-up,2
+362,25.0,M,33,Apple,Yes,Urban,0,16,18.0,109.59,11,6,Gaming,4
+363,29.0,M,33,Apple,Yes,Urban,0,10,17.0,77.2,6,4,Power bank,4
+364,20.0,M,10,Apple,Yes,Urban,0,8,19.0,24.06,12,4,Gaming,6
+365,43.0,F,36,Apple,Yes,Urban,0,2,3.0,34.37,1,1,Bills,1
+366,24.0,M,31,Apple,Yes,Rural,0,8,13.0,9.06,2,1,Bills,2
+367,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+368,27.0,M,36,Apple,Yes,Urban,1,11,6.0,77.6,8,7,Car,4
+369,23.0,F,20,Apple,Yes,Urban,0,14,8.0,93.6,12,5,Mobile top-up,7
+370,44.0,F,35,Apple,Yes,Rural,0,1,7.0,4.29,1,1,Mobile top-up,1
+371,27.0,M,31,Apple,Yes,Urban,3,10,10.0,72.1,4,4,Bills,2
+372,35.0,F,36,Apple,Yes,Urban,0,4,4.0,8.57,2,2,Mobile top-up,2
+373,32.0,M,35,Apple,Yes,Urban,0,10,14.0,3.57,1,1,Car,1
+374,40.0,F,32,Apple,Yes,Urban,0,12,9.0,9.29,5,5,Car,3
+375,27.0,M,32,Apple,Yes,Urban,0,5,5.0,1.86,4,2,Power bank,4
+376,25.0,M,10,Banana,Yes,Urban,0,2,1.0,2.14,1,1,Car,1
+377,34.0,M,36,Apple,Yes,Urban,0,4,8.0,21.94,4,2,Car,3
+378,39.0,M,36,Apple,Yes,Urban,0,13,4.0,2.76,1,1,Wallet,1
+379,40.0,F,32,Apple,Yes,Urban,0,6,4.0,1.57,2,2,Power bank,2
+380,38.0,F,9,Cranberry,Yes,Urban,0,1,1.0,12.97,1,1,Bills,1
+381,35.0,F,32,Banana,Yes,Urban,0,17,30.0,36.01,12,10,Car,7
+382,61.0,F,18,Apple,Yes,Urban,0,5,3.0,13.46,2,2,Car,2
+383,34.0,M,32,Apple,Yes,Rural,1,20,42.0,245.09,15,7,Ticket,7
+384,28.0,M,36,Apple,No,Urban,1,10,7.0,25.89,7,3,Mobile top-up,6
+385,47.0,M,31,Apple,Yes,Urban,0,7,6.0,32.32,3,3,Car,1
+386,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+387,22.0,M,36,Apple,Yes,Urban,0,9,7.0,13.29,1,1,Bills,1
+388,33.0,F,36,Apple,Yes,Urban,0,19,20.0,164.81,18,9,Wallet,8
+389,36.0,F,30,Apple,No,Urban,0,3,1.0,7.14,1,1,Mobile top-up,1
+390,21.0,M,6,Apple,Yes,Rural,0,5,23.0,4.0,3,2,Mobile top-up,2
+391,23.0,M,36,Apple,Yes,Rural,1,6,7.0,11.43,2,2,Mobile top-up,2
+392,32.0,M,36,Apple,Yes,Urban,0,5,6.0,50.47,3,2,Bills,2
+393,18.0,F,23,Apple,Yes,Urban,0,11,16.0,14.57,4,2,Mobile top-up,4
+394,45.0,F,22,Banana,Yes,Urban,1,18,29.0,208.84,14,8,Mobile top-up,7
+395,18.0,F,32,Apple,Yes,Urban,0,4,27.0,8.0,14,1,Transportation,14
+396,41.0,F,36,Apple,Yes,Urban,0,3,6.0,14.29,2,1,Mobile top-up,2
+397,31.0,F,32,Apple,Yes,Urban,0,5,5.0,41.0,4,3,Mobile top-up,3
+398,25.0,M,31,Apple,Yes,Urban,2,8,38.0,6.57,7,3,Transportation,4
+399,35.0,F,36,Apple,Yes,Urban,0,7,8.0,26.06,2,2,Mobile top-up,1
+400,40.0,F,32,Apple,Yes,Urban,0,6,4.0,1.57,2,2,Power bank,2
+401,26.0,F,5,Banana,Yes,Urban,0,13,18.0,37.71,15,9,Car,15
+402,36.0,F,30,Apple,Yes,Urban,0,16,13.0,63.29,8,5,Mobile top-up,4
+403,17.0,M,32,Apple,Yes,Urban,0,6,8.0,6.8,6,2,Transportation,4
+404,41.0,M,36,Apple,Yes,Urban,1,8,16.0,126.47,7,6,Bills,3
+405,20.0,M,27,Banana,Yes,Urban,0,7,1.0,21.38,3,3,Wallet,2
+406,44.0,M,32,Apple,Yes,Urban,0,12,15.0,30.71,7,3,Car,6
+407,34.0,M,36,Apple,Yes,Urban,3,13,16.0,61.56,5,4,Bills,3
+408,19.0,M,34,Banana,Yes,Urban,1,5,4.0,5.71,1,1,Wallet,1
+409,33.0,F,36,Banana,Yes,Urban,1,9,18.0,5.71,2,1,Car,2
+410,33.0,M,36,Apple,Yes,Urban,3,10,34.0,28.42,3,3,Car,2
+411,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+412,34.0,M,36,Apple,No,Urban,1,5,3.0,9.57,3,3,Car,2
+413,27.0,F,22,Banana,Yes,Urban,0,6,12.0,86.7,8,5,Power bank,4
+414,37.0,F,23,Apple,Yes,Urban,0,1,1.0,8.1,1,1,Bills,1
+415,37.0,M,7,Banana,Yes,Urban,0,5,11.0,4.39,2,2,Car,2
+416,26.0,M,34,Banana,Yes,Urban,1,16,5.0,32.32,12,3,Wallet,12
+417,35.0,M,30,Banana,Yes,Urban,1,11,6.0,38.71,14,2,Car,14
+418,35.0,M,14,Banana,Yes,Urban,0,2,2.0,0.57,1,1,Power bank,1
+419,36.0,F,36,Apple,Yes,Urban,0,1,2.0,17.24,1,1,Mobile top-up,1
+420,24.0,M,36,Apple,Yes,Urban,2,8,24.0,483.83,8,4,Power bank,3
+421,23.0,M,24,Apple,Yes,Urban,1,26,44.0,12.74,27,4,Transportation,21
+422,34.0,F,28,Dates,Yes,Urban,0,15,17.0,35.14,16,8,Car,12
+423,42.0,F,32,Apple,Yes,Rural,0,16,21.0,6.43,5,1,Mobile top-up,5
+424,23.0,M,6,Apple,Yes,Rural,0,5,7.0,83.41,5,5,Mobile top-up,2
+425,19.0,M,20,Banana,Yes,Urban,0,8,13.0,46.19,9,4,Gaming,6
+426,25.0,F,15,Banana,Yes,Urban,0,25,152.0,8.0,3,3,Car,2
+427,25.0,F,36,Apple,Yes,Urban,0,6,6.0,35.79,4,2,Mobile top-up,3
+428,27.0,M,32,Apple,Yes,Urban,0,6,10.0,15.46,12,2,Transportation,9
+429,28.0,F,36,Apple,Yes,Urban,1,16,26.0,68.91,11,3,Mobile top-up,10
+430,26.0,F,36,Apple,Yes,Rural,0,15,25.0,400.21,13,9,Car,5
+431,33.0,F,36,Apple,Yes,Urban,0,7,14.0,4.14,3,2,Car,2
+432,21.0,F,2,Banana,No,Urban,0,6,5.0,0.71,1,1,Car,1
+433,25.0,F,28,Apple,Yes,Urban,0,10,12.0,29.68,11,3,Mobile top-up,6
+434,33.0,M,36,Cranberry,Yes,Urban,0,12,16.0,79.51,7,5,Car,4
+435,20.0,M,30,Apple,Yes,Rural,0,15,10.0,121.49,11,3,Wallet,10
+436,33.0,F,36,Apple,Yes,Urban,0,7,14.0,4.14,3,2,Car,2
+437,29.0,M,20,Banana,Yes,Rural,0,5,1.0,16.11,1,1,Bills,1
+438,28.0,F,36,Apple,Yes,Urban,0,20,41.0,71.05,21,9,Mobile top-up,11
+439,24.0,M,22,Apple,Yes,Urban,0,7,9.0,25.66,11,6,Power bank,6
+440,32.0,F,36,Apple,Yes,Urban,0,10,10.0,15.83,4,4,Mobile top-up,3
+441,32.0,M,11,Cranberry,Yes,Urban,0,5,8.0,40.0,3,3,Mobile top-up,2
+442,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+443,43.0,F,22,Apple,Yes,Rural,0,4,13.0,11.64,1,1,Bills,1
+444,38.0,M,32,Apple,Yes,Urban,1,6,12.0,21.06,4,2,Mobile top-up,4
+445,27.0,M,36,Apple,Yes,Urban,1,3,6.0,18.94,1,1,Bills,1
+446,34.0,F,36,Banana,Yes,Urban,1,4,4.0,0.57,1,1,Power bank,1
+447,35.0,M,34,Apple,Yes,Urban,0,3,3.0,34.02,3,3,Mobile top-up,2
+448,18.0,F,23,Apple,Yes,Urban,0,11,16.0,14.57,4,2,Mobile top-up,4
+449,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+450,34.0,F,26,Apple,Yes,Urban,1,12,14.0,46.21,9,3,Mobile top-up,8
+451,23.0,F,33,Apple,Yes,Urban,1,15,27.0,52.99,22,7,Transportation,9
+452,25.0,F,36,Apple,Yes,Urban,0,4,10.0,1.43,1,1,Transportation,1
+453,25.0,M,35,Banana,Yes,Urban,0,7,15.0,5.43,6,4,Car,4
+454,27.0,F,31,Apple,Yes,Urban,1,10,4.0,48.0,6,4,Car,3
+455,48.0,F,35,Banana,No,Urban,0,2,1.0,6.43,2,1,Car,2
+456,23.0,F,36,Apple,Yes,Urban,1,14,24.0,35.87,12,5,Mobile top-up,7
+457,19.0,F,36,Apple,Yes,Urban,1,7,3.0,5.14,2,1,Mobile top-up,2
+458,36.0,F,28,Apple,Yes,Urban,2,18,21.0,19.72,6,3,Transportation,5
+459,27.0,M,36,Cranberry,Yes,Urban,0,6,20.0,28.57,1,1,Wallet,1
+460,27.0,F,34,Apple,Yes,Urban,1,4,6.0,14.03,3,3,Mobile top-up,2
+461,34.0,M,23,Apple,Yes,Rural,0,5,8.0,7.14,1,1,Mobile top-up,1
+462,23.0,M,32,Apple,Yes,Urban,0,18,36.0,53.62,17,8,Mobile top-up,6
+463,30.0,F,26,Banana,Yes,Urban,0,11,11.0,15.71,12,2,Power bank,12
+464,38.0,F,35,Banana,Yes,Urban,0,5,2.0,5.71,2,2,Car,1
+465,36.0,F,2,Apple,Yes,Urban,0,1,2.0,2.29,1,1,Car,1
+466,21.0,M,26,Apple,Yes,Urban,0,2,3.0,3.57,3,3,Power bank,2
+467,26.0,M,32,Dates,Yes,Urban,0,10,39.0,0.71,1,1,Car,1
+468,46.0,M,33,Apple,Yes,Urban,0,2,5.0,19.63,2,1,Mobile top-up,2
+469,26.0,F,31,Banana,Yes,Urban,0,6,7.0,2.57,2,1,Car,2
+470,32.0,M,36,Apple,Yes,Urban,1,11,10.0,46.77,5,3,Gaming,2
+471,23.0,M,34,Banana,Yes,Urban,2,3,5.0,0.86,1,1,Car,1
+472,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+473,25.0,M,32,Apple,Yes,Urban,1,3,3.0,18.81,2,2,Mobile top-up,1
+474,24.0,F,36,Apple,Yes,Urban,0,14,28.0,33.44,3,2,Bills,2
+475,31.0,M,35,Banana,Yes,Urban,0,4,2.0,4.57,2,2,Car,2
+476,21.0,M,36,Apple,Yes,Urban,1,16,8.0,41.1,15,4,Wallet,8
+477,21.0,M,19,Banana,Yes,Urban,0,7,4.0,2.0,2,1,Car,2
+478,25.0,F,33,Banana,Yes,Urban,0,13,18.0,1.71,3,1,Car,3
+479,35.0,M,32,Apple,Yes,Urban,0,2,2.0,11.75,1,1,Mobile top-up,1
+480,54.0,F,21,Apple,Yes,Urban,0,6,11.0,60.28,4,2,Bills,3
+481,32.0,F,32,Banana,Yes,Urban,0,3,4.0,6.23,2,2,Bills,1
+482,31.0,M,16,Dates,Yes,Urban,1,3,3.0,21.2,1,1,Bills,1
+483,26.0,F,36,Apple,Yes,Urban,0,14,22.0,24.89,4,2,Car,3
+484,38.0,M,1,Banana,Yes,Urban,0,3,4.0,2.14,2,2,Power bank,1
+485,21.0,M,20,Apple,No,Rural,0,8,9.0,0.57,1,1,Wallet,1
+486,23.0,F,11,Banana,Yes,Urban,0,5,18.0,4.77,1,1,Bills,1
+487,36.0,M,32,Apple,Yes,Urban,0,26,26.0,192.83,12,6,Wallet,5
+488,35.0,M,22,Banana,Yes,Urban,0,17,12.0,65.0,12,3,Car,10
+489,31.0,F,36,Banana,Yes,Urban,0,4,6.0,17.51,1,1,Bills,1
+490,26.0,M,36,Banana,Yes,Urban,1,7,2.0,14.97,1,1,Bills,1
+491,43.0,F,35,Banana,Yes,Urban,0,4,2.0,31.11,4,3,Car,3
+492,25.0,M,34,Apple,Yes,Urban,1,2,3.0,30.15,2,2,Delivery,1
+493,21.0,F,15,Apple,Yes,Urban,0,6,4.0,4.51,3,2,Mobile top-up,3
+494,24.0,F,18,Banana,Yes,Urban,0,12,6.0,68.35,6,5,Car,3
+495,37.0,F,36,Banana,Yes,Urban,0,6,15.0,29.0,11,6,Power bank,5
+496,41.0,M,35,Banana,Yes,Urban,0,18,52.0,139.49,19,7,Car,14
+497,27.0,M,36,Apple,Yes,Urban,0,6,5.0,18.41,5,3,Mobile top-up,4
+498,30.0,M,36,Apple,Yes,Rural,1,9,11.0,62.85,5,3,Mobile top-up,4
+499,30.0,F,36,Apple,Yes,Urban,0,8,18.0,37.6,3,3,Bills,2
+500,38.0,M,32,Apple,Yes,Urban,0,4,5.0,65.33,3,3,Mobile top-up,2
+501,24.0,M,21,Cranberry,Yes,Urban,1,8,8.0,14.71,5,3,Mobile top-up,4
+502,34.0,F,36,Banana,Yes,Urban,0,7,9.0,24.61,6,5,Wallet,3
+503,20.0,F,10,Apple,Yes,Urban,0,15,30.0,19.29,16,3,Mobile top-up,15
+504,22.0,M,23,Banana,Yes,Urban,0,4,8.0,21.44,3,3,Power bank,2
+505,49.0,F,10,Apple,Yes,Rural,0,9,3.0,159.74,7,3,Wallet,7
+506,27.0,F,32,Apple,Yes,Urban,1,3,4.0,22.77,2,2,Mobile top-up,2
+507,17.0,F,36,Apple,Yes,Urban,1,12,40.0,18.17,11,2,Mobile top-up,11
+508,30.0,M,27,Apple,Yes,Urban,3,18,53.0,96.69,5,5,Bills,2
+509,26.0,F,36,Apple,Yes,Urban,0,9,17.0,17.41,14,3,Transportation,12
+510,44.0,F,29,Banana,Yes,Urban,0,11,23.0,37.04,11,4,Bills,9
+511,29.0,M,36,Apple,Yes,Urban,1,15,21.0,71.85,5,3,Wallet,3
+512,19.0,M,34,Banana,Yes,Urban,1,5,4.0,5.71,1,1,Wallet,1
+513,21.0,F,34,Apple,Yes,Urban,3,3,6.0,5.71,2,2,Mobile top-up,1
+514,30.0,F,37,Apple,Yes,Urban,1,22,23.0,197.17,21,7,Wallet,15
+515,24.0,M,10,Apple,Yes,Urban,0,2,2.0,6.0,1,1,Mobile top-up,1
+516,43.0,M,36,Apple,Yes,Urban,0,9,13.0,22.0,6,4,Mobile top-up,3
+517,34.0,F,36,Banana,Yes,Urban,1,4,4.0,0.57,1,1,Power bank,1
+518,34.0,M,36,Apple,Yes,Urban,0,4,4.0,15.43,6,3,Mobile top-up,6
+519,37.0,M,36,Apple,Yes,Urban,0,14,25.0,131.75,14,9,Mobile top-up,5
+520,29.0,F,32,Apple,Yes,Urban,0,16,25.0,42.42,12,5,Transportation,8
+521,33.0,M,36,Apple,Yes,Urban,0,1,1.0,0.86,1,1,Car,1
+522,18.0,M,31,Banana,Yes,Urban,1,16,8.0,13.37,15,5,Car,10
+523,34.0,F,20,Dates,Yes,Rural,0,7,2.0,17.51,2,1,Mobile top-up,2
+524,29.0,F,16,Banana,No,Urban,0,2,2.0,7.14,2,1,Car,2
+525,30.0,F,36,Cranberry,Yes,Urban,1,9,17.0,53.73,10,6,Mobile top-up,5
+526,19.0,F,2,Banana,Yes,Urban,0,16,24.0,45.85,16,6,Car,11
+527,27.0,M,32,Apple,Yes,Rural,0,10,11.0,4.4,3,3,Mobile top-up,1
+528,36.0,M,27,Banana,Yes,Urban,0,5,4.0,30.54,3,3,Car,2
+529,22.0,F,36,Apple,Yes,Urban,1,9,16.0,8.43,8,5,Mobile top-up,4
+530,47.0,F,36,Apple,Yes,Urban,0,5,5.0,39.9,4,2,Mobile top-up,2
+531,49.0,F,22,Apple,Yes,Urban,0,3,2.0,15.9,2,2,Transportation,1
+532,30.0,M,36,Apple,Yes,Rural,1,7,3.0,29.46,3,2,Mobile top-up,2
+533,24.0,F,36,Banana,Yes,Rural,1,5,1.0,1.0,1,1,Mobile top-up,1
+534,25.0,M,36,Apple,Yes,Urban,0,18,7.0,10.39,4,3,Car,3
+535,35.0,M,36,Apple,Yes,Urban,0,9,18.0,30.76,3,3,Car,1
+536,40.0,F,32,Apple,Yes,Urban,0,12,9.0,9.29,5,5,Car,3
+537,39.0,F,32,Apple,Yes,Urban,1,7,20.0,9.53,4,3,Car,2
+538,51.0,F,21,Apple,No,Urban,0,1,4.0,8.78,1,1,Car,1
+539,31.0,F,36,Banana,Yes,Urban,0,2,,2.14,1,1,Car,1
+540,30.0,M,24,Apple,Yes,Urban,0,16,170.0,73.49,4,3,Wallet,3
+541,17.0,M,36,Apple,Yes,Urban,1,9,12.0,0.71,1,1,Mobile top-up,1
+542,34.0,M,26,Banana,Yes,Urban,0,14,14.0,103.17,12,4,Car,8
+543,27.0,F,36,Apple,Yes,Urban,0,7,8.0,26.56,5,3,Car,4
+544,19.0,M,25,Apple,Yes,Rural,1,8,16.0,4.57,2,2,Mobile top-up,2
+545,32.0,F,23,Apple,Yes,Rural,1,3,5.0,82.92,5,3,Bills,3
+546,24.0,F,15,Apple,Yes,Urban,0,5,3.0,19.19,1,1,Bills,1
+547,31.0,M,24,Banana,Yes,Urban,2,3,5.0,14.86,4,3,Car,3
+548,33.0,M,36,Apple,Yes,Urban,3,10,34.0,28.42,3,3,Car,2
+549,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+550,19.0,M,25,Apple,Yes,Rural,1,8,16.0,4.57,2,2,Mobile top-up,2
+551,37.0,M,31,Banana,No,Urban,0,1,1.0,2.14,1,1,Car,1
+552,26.0,M,14,Banana,Yes,Urban,1,6,5.0,49.8,3,3,Car,1
+553,40.0,F,33,Apple,Yes,Urban,0,4,2.0,34.34,4,3,Mobile top-up,3
+554,63.0,M,31,Apple,Yes,Urban,1,6,32.0,14.78,3,3,Mobile top-up,2
+555,39.0,M,36,Banana,Yes,Urban,0,10,10.0,32.07,16,8,Car,16
+556,27.0,F,25,Apple,Yes,Urban,0,14,34.0,15.41,8,2,Transportation,7
+557,38.0,F,36,Apple,Yes,Urban,0,11,28.0,86.91,11,4,Mobile top-up,10
+558,25.0,M,24,Banana,Yes,Urban,2,7,8.0,14.74,5,2,Delivery,5
+559,39.0,F,36,Apple,Yes,Urban,0,6,7.0,51.31,8,4,Mobile top-up,7
+560,29.0,M,24,Dates,Yes,Urban,0,4,8.0,1.43,1,1,Power bank,1
+561,21.0,F,12,Banana,Yes,Urban,0,5,6.0,1.43,1,1,Power bank,1
+562,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+563,42.0,M,26,Apple,Yes,Rural,1,8,16.0,56.93,5,4,Bills,3
+564,28.0,F,27,Apple,Yes,Urban,0,7,8.0,89.0,6,3,Bills,4
+565,36.0,F,36,Banana,Yes,Urban,0,9,6.0,3.29,4,2,Car,2
+566,29.0,F,34,Cranberry,Yes,Urban,1,18,19.0,62.03,17,9,Transportation,9
+567,26.0,F,36,Apple,Yes,Rural,0,15,25.0,400.21,13,9,Car,5
+568,59.0,F,16,Apple,Yes,Urban,0,8,4.0,54.4,3,2,Mobile top-up,2
+569,25.0,F,15,Banana,Yes,Urban,0,25,152.0,8.0,3,3,Car,2
+570,22.0,M,36,Banana,Yes,Urban,0,5,5.0,66.83,2,1,Gaming,2
+571,27.0,M,36,Apple,Yes,Urban,0,2,1.0,2.83,1,1,Mobile top-up,1
+572,30.0,F,36,Apple,Yes,Urban,0,3,1.0,0.71,1,1,Car,1
+573,35.0,M,19,Apple,Yes,Urban,1,19,33.0,93.67,11,5,Mobile top-up,9
+574,22.0,M,26,Apple,Yes,Urban,0,5,4.0,3.14,4,1,Mobile top-up,4
+575,35.0,F,29,Apple,Yes,Urban,1,9,8.0,75.12,8,5,Mobile top-up,6
+576,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+577,20.0,M,10,Apple,Yes,Urban,0,8,19.0,24.06,12,4,Gaming,6
+578,34.0,F,36,Cranberry,Yes,Urban,2,10,35.0,131.9,15,3,Mobile top-up,10
+579,50.0,M,8,Apple,Yes,Rural,0,7,15.0,48.74,3,2,Bills,3
+580,21.0,F,21,Apple,Yes,Urban,2,8,5.0,21.37,5,2,Mobile top-up,4
+581,30.0,M,36,Apple,Yes,Urban,0,18,25.0,65.81,12,3,Mobile top-up,9
+582,40.0,F,27,Apple,Yes,Rural,0,4,8.0,46.29,3,3,Mobile top-up,3
+583,44.0,M,35,Apple,Yes,Rural,0,5,8.0,35.57,4,4,Mobile top-up,3
+584,22.0,F,31,Apple,Yes,Urban,1,7,21.0,26.17,2,2,Bills,1
+585,30.0,M,28,Apple,Yes,Urban,1,7,5.0,17.57,7,5,Power bank,4
+586,25.0,M,19,Cranberry,Yes,Urban,0,6,4.0,6.71,6,5,Car,3
+587,38.0,M,30,Apple,Yes,Urban,1,6,6.0,24.76,4,3,Mobile top-up,2
+588,24.0,F,19,Banana,Yes,Urban,0,11,23.0,63.86,5,3,Gaming,3
+589,34.0,F,36,Cranberry,Yes,Urban,2,10,35.0,131.9,15,3,Mobile top-up,10
+590,37.0,F,28,Apple,Yes,Urban,1,8,26.0,38.61,3,2,Mobile top-up,2
+591,33.0,F,36,Apple,Yes,Urban,0,7,14.0,4.14,3,2,Car,2
+592,43.0,M,24,Apple,Yes,Urban,1,27,18.0,971.23,24,7,Car,13
+593,37.0,M,36,Apple,Yes,Urban,0,14,25.0,131.75,14,9,Mobile top-up,5
+594,29.0,F,28,Apple,Yes,Urban,0,7,6.0,32.63,4,2,Car,3
+595,27.0,F,36,Apple,Yes,Urban,1,9,13.0,12.2,5,2,Mobile top-up,5
+596,39.0,M,36,Apple,Yes,Urban,1,4,6.0,32.31,3,2,Mobile top-up,2
+597,26.0,M,9,Apple,No,Urban,0,3,2.0,1.43,1,1,Car,1
+598,25.0,M,33,Banana,Yes,Urban,2,7,7.0,0.57,1,1,Car,1
+599,24.0,F,36,Apple,Yes,Urban,4,14,12.0,27.81,9,5,Wallet,4
+600,25.0,M,36,Apple,Yes,Urban,1,7,6.0,2.86,2,2,Power bank,2
+601,29.0,M,18,Banana,Yes,Urban,0,12,28.0,17.66,4,3,Gaming,2
+602,24.0,M,16,Apple,Yes,Urban,1,9,4.0,21.61,6,4,Wallet,3
+603,35.0,M,36,Apple,Yes,Urban,1,6,6.0,35.71,2,2,Mobile top-up,1
+604,21.0,F,18,Apple,No,Urban,0,11,23.0,20.69,8,2,Mobile top-up,7
+605,37.0,M,34,Apple,Yes,Urban,0,7,7.0,26.34,2,2,Mobile top-up,1
+606,47.0,F,20,Apple,Yes,Rural,0,10,22.0,29.08,4,3,Mobile top-up,3
+607,32.0,M,30,Banana,Yes,Urban,1,15,23.0,50.57,13,4,Car,13
+608,33.0,M,36,Cranberry,Yes,Urban,0,12,16.0,79.51,7,5,Car,4
+609,35.0,M,36,Apple,Yes,Urban,0,3,6.0,35.4,3,2,Bills,2
+610,24.0,F,36,Apple,Yes,Rural,0,13,25.0,96.28,11,4,Mobile top-up,8
+611,23.0,F,20,Apple,Yes,Urban,0,14,8.0,93.6,12,5,Mobile top-up,7
+612,21.0,F,21,Apple,Yes,Urban,2,8,5.0,21.37,5,2,Mobile top-up,4
+613,50.0,M,29,Banana,Yes,Urban,0,13,29.0,20.35,8,4,Car,8
+614,29.0,F,16,Apple,Yes,Urban,0,4,10.0,13.08,1,1,Mobile top-up,1
+615,38.0,M,29,Apple,Yes,Urban,1,14,26.0,83.94,8,6,Car,4
+616,19.0,F,12,Banana,Yes,Urban,1,8,8.0,26.69,6,5,Transportation,2
+617,35.0,F,36,Banana,Yes,Urban,0,3,11.0,14.97,1,1,Bills,1
+618,25.0,M,36,Apple,Yes,Urban,0,8,16.0,37.25,5,4,Bills,3
+619,20.0,M,10,Apple,Yes,Urban,0,8,19.0,24.06,12,4,Gaming,6
+620,37.0,M,34,Banana,Yes,Urban,0,2,,0.86,1,1,Car,1
+621,42.0,M,26,Apple,Yes,Rural,1,8,16.0,56.93,5,4,Bills,3
+622,24.0,M,33,Apple,Yes,Rural,0,2,2.0,4.29,1,1,Bills,1
+623,31.0,M,35,Apple,Yes,Urban,0,3,1.0,21.59,1,1,Delivery,1
+624,31.0,M,4,Cranberry,Yes,Urban,0,5,9.0,10.23,5,3,Mobile top-up,4
+625,34.0,M,33,Banana,Yes,Urban,1,4,3.0,16.87,5,4,Car,3
+626,28.0,M,20,Apple,Yes,Urban,0,7,2.0,54.67,9,1,Wallet,9
+627,28.0,F,25,Apple,Yes,Urban,0,11,9.0,10.43,1,1,Bills,1
+628,26.0,F,24,Banana,Yes,Urban,0,1,1.0,17.8,1,1,Bills,1
+629,37.0,M,36,Banana,Yes,Urban,0,6,12.0,21.17,1,1,Bills,1
+630,23.0,F,36,Apple,Yes,Urban,0,26,136.0,69.87,12,6,Wallet,5
+631,19.0,M,25,Apple,Yes,Rural,1,8,16.0,4.57,2,2,Mobile top-up,2
+632,23.0,M,22,Dates,Yes,Urban,1,1,1.0,1.29,1,1,Car,1
+633,34.0,F,36,Apple,Yes,Urban,1,13,5.0,42.86,4,3,Mobile top-up,2
+634,32.0,M,35,Apple,Yes,Urban,0,10,14.0,3.57,1,1,Car,1
+635,35.0,M,36,Apple,Yes,Urban,0,12,25.0,74.66,10,5,Power bank,5
+636,27.0,F,15,Cranberry,Yes,Urban,1,5,8.0,138.16,12,5,Mobile top-up,7
+637,22.0,M,32,Apple,Yes,Urban,1,16,8.0,70.37,6,3,Mobile top-up,3
+638,38.0,F,36,Apple,Yes,Urban,0,10,12.0,49.82,5,3,Mobile top-up,3
+639,29.0,F,32,Apple,Yes,Urban,1,6,8.0,21.23,4,3,Car,3
+640,25.0,F,36,Apple,Yes,Urban,1,29,215.0,31.98,15,8,Transportation,8
+641,37.0,M,36,Apple,Yes,Urban,1,1,3.0,0.57,1,1,Mobile top-up,1
+642,37.0,M,31,Cranberry,Yes,Urban,0,2,1.0,2.14,1,1,Car,1
+643,19.0,M,26,Banana,Yes,Rural,0,7,13.0,28.53,8,4,Power bank,5
+644,24.0,F,35,Cranberry,Yes,Urban,0,5,6.0,28.84,2,2,Bills,1
+645,42.0,F,32,Apple,Yes,Urban,0,13,23.0,49.55,6,4,Bills,3
+646,21.0,F,21,Apple,Yes,Urban,2,8,5.0,21.37,5,2,Mobile top-up,4
+647,35.0,F,36,Banana,Yes,Urban,1,2,5.0,1.29,3,2,Power bank,3
+648,19.0,M,12,Banana,No,Urban,0,2,2.0,0.29,1,1,Transportation,1
+649,38.0,F,32,Apple,Yes,Urban,1,6,3.0,2.0,2,1,Mobile top-up,2
+650,34.0,F,36,Banana,Yes,Urban,1,4,4.0,0.57,1,1,Power bank,1
+651,57.0,F,32,Apple,No,Urban,0,4,5.0,3.69,1,1,Mobile top-up,1
+652,21.0,M,36,Apple,Yes,Urban,1,16,8.0,41.1,15,4,Wallet,8
+653,25.0,F,15,Banana,Yes,Urban,0,25,152.0,8.0,3,3,Car,2
+654,26.0,M,34,Apple,Yes,Urban,0,10,8.0,36.82,5,2,Wallet,5
+655,24.0,M,16,Banana,Yes,Urban,0,10,16.0,16.0,5,3,Power bank,3
+656,24.0,M,26,Banana,Yes,Urban,0,3,4.0,5.0,1,1,Car,1
+657,29.0,M,32,Apple,Yes,Urban,0,2,1.0,4.86,2,2,Car,2
+658,31.0,F,21,Banana,Yes,Urban,0,10,36.0,7.0,4,4,Car,3
+659,27.0,F,36,Banana,Yes,Urban,0,2,1.0,0.57,1,1,Power bank,1
+660,20.0,M,35,Banana,Yes,Urban,0,1,4.0,15.82,1,1,Car,1
+661,30.0,M,36,Apple,Yes,Rural,1,7,3.0,29.46,3,2,Mobile top-up,2
+662,28.0,M,36,Apple,Yes,Rural,0,2,1.0,1.43,1,1,Mobile top-up,1
+663,47.0,F,33,Apple,Yes,Urban,1,3,9.0,34.36,2,2,Mobile top-up,1
+664,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+665,41.0,F,36,Apple,Yes,Urban,1,7,9.0,40.71,6,5,Transportation,2
+666,34.0,M,14,Apple,Yes,Urban,0,2,,0.57,1,1,Car,1
+667,47.0,F,36,Apple,Yes,Urban,0,12,23.0,80.04,8,4,Power bank,4
+668,19.0,M,25,Apple,Yes,Urban,0,9,16.0,5.43,3,3,Car,2
+669,20.0,F,12,Apple,Yes,Rural,0,9,17.0,71.29,7,4,Mobile top-up,4
+670,37.0,M,36,Apple,Yes,Urban,0,2,3.0,27.65,2,2,Bills,1
+671,32.0,F,36,Apple,Yes,Urban,0,15,27.0,105.04,8,7,Car,4
+672,24.0,M,28,Apple,Yes,Urban,1,6,3.0,33.21,5,4,Car,4
+673,29.0,M,22,Apple,Yes,Urban,1,10,18.0,5.71,4,2,Power bank,3
+674,25.0,F,25,Banana,Yes,Rural,1,5,14.0,224.52,3,2,Bills,3
+675,32.0,F,21,Apple,Yes,Urban,1,13,14.0,15.35,2,2,Mobile top-up,2
+676,43.0,M,4,Banana,Yes,Urban,0,7,14.0,10.57,6,2,Car,5
+677,42.0,F,16,Banana,Yes,Urban,0,14,8.0,17.06,8,7,Wallet,4
+678,26.0,F,36,Apple,Yes,Rural,0,15,25.0,400.21,13,9,Car,5
+679,39.0,F,26,Apple,Yes,Urban,0,6,8.0,7.14,1,1,Mobile top-up,1
+680,42.0,F,32,Apple,Yes,Urban,1,13,29.0,60.8,5,5,Mobile top-up,4
+681,25.0,M,36,Apple,Yes,Urban,0,18,7.0,10.39,4,3,Car,3
+682,20.0,F,36,Apple,Yes,Urban,0,9,10.0,15.6,6,2,Mobile top-up,6
+683,35.0,M,31,Apple,Yes,Urban,0,4,,19.59,1,1,Bills,1
+684,23.0,M,32,Apple,Yes,Urban,0,4,4.0,6.39,1,1,Car,1
+685,22.0,M,5,Apple,Yes,Urban,0,25,60.0,115.52,26,12,Wallet,16
+686,34.0,M,4,Dates,Yes,Urban,0,3,3.0,7.09,3,1,Mobile top-up,3
+687,35.0,M,36,Apple,Yes,Urban,1,16,30.0,18.0,4,3,Transportation,2
+688,27.0,M,32,Apple,Yes,Urban,0,6,9.0,48.44,6,3,Car,3
+689,24.0,F,30,Apple,Yes,Urban,0,5,12.0,5.97,4,1,Mobile top-up,4
+690,33.0,M,36,Banana,Yes,Urban,1,7,7.0,38.94,7,6,Mobile top-up,3
+691,43.0,M,32,Apple,Yes,Urban,1,4,4.0,24.86,2,2,Mobile top-up,1
+692,48.0,M,26,Apple,Yes,Urban,0,2,1.0,37.64,2,2,Car,1
+693,20.0,M,21,Apple,Yes,Urban,1,11,25.0,64.3,3,3,Mobile top-up,1
+694,30.0,F,31,Apple,Yes,Urban,0,7,14.0,11.69,3,2,Mobile top-up,3
+695,39.0,M,36,Apple,Yes,Urban,0,7,7.0,27.8,4,3,Bills,2
+696,24.0,F,23,Apple,No,Urban,0,3,11.0,12.0,9,1,Transportation,9
+697,20.0,M,36,Apple,Yes,Urban,0,19,13.0,21.69,12,4,Power bank,7
+698,47.0,M,32,Apple,Yes,Urban,3,5,6.0,160.54,8,3,Bills,3
+699,33.0,M,36,Cranberry,Yes,Urban,0,15,9.0,7.14,9,1,Transportation,9
+700,42.0,M,26,Apple,Yes,Rural,1,8,16.0,56.93,5,4,Bills,3
+701,40.0,F,32,Apple,Yes,Urban,0,6,4.0,1.57,2,2,Power bank,2
+702,24.0,M,34,Apple,Yes,Urban,0,11,12.0,51.38,7,4,Wallet,7
+703,42.0,F,17,Apple,Yes,Rural,1,15,23.0,90.8,20,6,Mobile top-up,12
+704,37.0,F,4,Banana,Yes,Urban,0,20,56.0,59.34,3,3,Wallet,2
+705,25.0,F,14,Apple,No,Rural,0,1,,0.86,1,1,Car,1
+706,23.0,F,7,Banana,Yes,Urban,0,1,1.0,0.29,1,1,Car,1
+707,28.0,M,35,Banana,Yes,Urban,0,7,7.0,2.57,1,1,Car,1
+708,34.0,F,36,Banana,Yes,Urban,1,4,4.0,0.57,1,1,Power bank,1
+709,19.0,M,7,Cranberry,Yes,Urban,0,3,10.0,51.81,2,1,Car,2
+710,26.0,M,27,Banana,Yes,Urban,1,7,6.0,16.4,2,2,Transportation,1
+711,26.0,F,36,Apple,Yes,Rural,0,4,5.0,16.2,2,2,Bills,1
+712,36.0,M,8,Banana,Yes,Urban,0,2,5.0,7.14,3,1,Car,3
+713,40.0,M,6,Apple,Yes,Urban,0,6,5.0,7.14,4,2,Mobile top-up,4
+714,30.0,M,32,Apple,Yes,Urban,0,1,2.0,37.13,2,2,Mobile top-up,1
+715,28.0,F,16,Apple,Yes,Rural,0,12,15.0,24.79,5,3,Mobile top-up,4
+716,51.0,F,33,Apple,Yes,Urban,1,14,30.0,369.23,33,6,Mobile top-up,27
+717,30.0,M,36,Apple,No,Urban,0,3,3.0,5.57,4,2,Car,4
+718,40.0,M,16,Banana,Yes,Urban,0,4,6.0,0.57,1,1,Power bank,1
+719,24.0,M,21,Cranberry,Yes,Urban,1,8,8.0,14.71,5,3,Mobile top-up,4
+720,31.0,F,36,Apple,Yes,Urban,0,2,4.0,16.63,1,1,Bills,1
+721,25.0,M,36,Apple,Yes,Urban,1,3,1.0,13.97,2,2,Car,1
+722,21.0,M,8,Banana,Yes,Urban,0,1,1.0,1.43,1,1,Transportation,1
+723,25.0,F,15,Banana,Yes,Urban,0,25,152.0,8.0,3,3,Car,2
+724,35.0,M,36,Cranberry,Yes,Urban,0,2,2.0,6.0,1,1,Mobile top-up,1
+725,35.0,F,17,Apple,Yes,Urban,0,4,4.0,16.09,1,1,Mobile top-up,1
+726,21.0,M,36,Apple,Yes,Urban,1,9,8.0,23.65,4,3,Mobile top-up,2
+727,45.0,M,33,Apple,Yes,Rural,0,1,,18.87,1,1,Mobile top-up,1
+728,25.0,F,15,Banana,Yes,Urban,0,25,152.0,8.0,3,3,Car,2
+729,37.0,M,36,Apple,Yes,Rural,1,5,9.0,31.73,4,2,Mobile top-up,4
+730,22.0,F,36,Apple,Yes,Urban,0,15,16.0,12.49,10,2,Transportation,7
+731,38.0,F,32,Apple,Yes,Urban,0,1,3.0,12.25,2,1,Mobile top-up,2
+732,19.0,M,14,Banana,Yes,Urban,0,1,2.0,1.43,1,1,Power bank,1
+733,37.0,F,32,Banana,Yes,Urban,0,4,7.0,7.57,7,4,Power bank,5
+734,37.0,F,20,Apple,Yes,Rural,0,9,13.0,88.09,7,4,Mobile top-up,4
+735,36.0,F,36,Apple,Yes,Urban,1,6,3.0,36.32,2,2,Bills,2
+736,23.0,M,36,Apple,Yes,Urban,2,9,17.0,20.26,9,5,Mobile top-up,8
+737,37.0,M,31,Cranberry,Yes,Urban,0,2,1.0,2.14,1,1,Car,1
+738,36.0,M,36,Apple,Yes,Urban,0,4,4.0,0.57,1,1,Power bank,1
+739,36.0,M,35,Apple,Yes,Urban,0,2,4.0,25.17,3,3,Mobile top-up,2
+740,20.0,F,17,Banana,No,Urban,0,3,2.0,0.71,1,1,Car,1
+741,28.0,F,29,Apple,Yes,Urban,0,9,7.0,10.92,6,2,Transportation,5
+742,21.0,M,36,Apple,Yes,Urban,1,16,8.0,41.1,15,4,Wallet,8
+743,33.0,F,36,Banana,Yes,Urban,0,5,7.0,26.2,4,4,Car,2
+744,21.0,M,34,Apple,Yes,Urban,0,8,22.0,12.39,7,4,Transportation,4
+745,35.0,M,35,Apple,Yes,Urban,0,7,13.0,81.04,9,5,Car,4
+746,37.0,F,11,Cranberry,Yes,Urban,1,9,3.0,24.93,3,2,Mobile top-up,3
+747,26.0,M,36,Apple,Yes,Urban,0,7,14.0,2.29,3,3,Power bank,2
+748,33.0,M,14,Apple,Yes,Urban,0,9,15.0,6.11,2,2,Car,2
+749,41.0,M,36,Apple,Yes,Urban,1,8,16.0,126.47,7,6,Bills,3
+750,24.0,F,36,Apple,Yes,Urban,0,5,25.0,1.43,1,1,Power bank,1
+751,40.0,M,29,Apple,Yes,Rural,0,4,5.0,2.0,2,2,Power bank,1
+752,24.0,F,32,Apple,Yes,Urban,0,6,3.0,22.61,4,2,Wallet,3
+753,33.0,M,34,Banana,Yes,Urban,0,4,5.0,19.27,1,1,Bills,1
+754,36.0,F,32,Apple,Yes,Urban,1,17,21.0,38.29,7,4,Mobile top-up,4
+755,29.0,M,28,Apple,Yes,Urban,0,10,6.0,17.2,5,4,Wallet,3
+756,38.0,M,9,Cranberry,Yes,Urban,0,11,8.0,11.54,2,2,Wallet,2
+757,45.0,F,27,Apple,Yes,Urban,0,2,2.0,7.86,2,1,Car,2
+758,22.0,M,16,Cranberry,Yes,Urban,0,18,23.0,103.7,15,7,Wallet,6
+759,32.0,M,29,Cranberry,Yes,Urban,0,1,2.0,15.94,1,1,Bills,1
+760,34.0,F,20,Apple,Yes,Rural,0,11,8.0,24.32,5,3,Car,3
+761,25.0,M,33,Apple,Yes,Urban,0,9,13.0,160.35,10,7,Wallet,6
+762,41.0,M,33,Apple,No,Rural,1,4,7.0,6.29,5,2,Mobile top-up,5
+763,36.0,F,36,Apple,Yes,Urban,0,14,25.0,71.79,9,4,Mobile top-up,5
+764,42.0,M,21,Banana,Yes,Urban,2,4,4.0,3.14,1,1,Car,1
+765,32.0,M,17,Cranberry,Yes,Urban,0,2,9.0,15.72,2,1,Mobile top-up,2
+766,29.0,M,20,Apple,Yes,Urban,0,2,1.0,22.66,1,1,Bills,1
+767,36.0,F,24,Banana,Yes,Urban,0,1,2.0,0.57,1,1,Power bank,1
+768,21.0,M,3,Dates,Yes,Urban,0,6,6.0,6.86,6,3,Power bank,5
+769,33.0,M,36,Cranberry,Yes,Urban,0,12,16.0,79.51,7,5,Car,4
+770,30.0,M,36,Banana,Yes,Urban,1,11,19.0,79.71,21,4,Car,18
+771,32.0,F,34,Apple,Yes,Urban,0,8,7.0,7.86,4,3,Power bank,3
+772,34.0,F,36,Banana,Yes,Urban,1,4,4.0,0.57,1,1,Power bank,1
+773,31.0,F,32,Apple,Yes,Urban,0,18,27.0,52.58,19,5,Mobile top-up,15
+774,34.0,M,36,Apple,Yes,Rural,0,8,10.0,182.98,13,8,Bills,6
+775,28.0,F,8,Apple,Yes,Urban,0,4,8.0,15.4,2,2,Mobile top-up,2
+776,31.0,M,33,Apple,Yes,Urban,0,6,9.0,3.53,2,2,Power bank,1
+777,23.0,M,33,Apple,Yes,Rural,0,17,16.0,36.73,12,4,Mobile top-up,11
+778,33.0,M,34,Apple,Yes,Urban,0,9,15.0,45.43,5,4,Mobile top-up,3
+779,28.0,F,23,Apple,Yes,Urban,0,21,47.0,84.06,32,6,Mobile top-up,15
+780,34.0,F,34,Apple,Yes,Urban,0,5,3.0,0.86,1,1,Mobile top-up,1
+781,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+782,39.0,M,21,Apple,Yes,Urban,0,1,1.0,1.43,1,1,Transportation,1
+783,34.0,F,36,Banana,Yes,Urban,1,4,4.0,0.57,1,1,Power bank,1
+784,37.0,M,36,Apple,Yes,Urban,0,14,25.0,131.75,14,9,Mobile top-up,5
+785,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+786,33.0,M,33,Apple,Yes,Urban,0,2,1.0,5.0,1,1,Car,1
+787,44.0,M,36,Apple,Yes,Urban,1,4,5.0,171.46,11,3,Mobile top-up,6
+788,31.0,M,36,Apple,Yes,Urban,0,5,3.0,14.77,3,3,Mobile top-up,1
+789,25.0,F,15,Banana,Yes,Urban,0,25,152.0,8.0,3,3,Car,2
+790,31.0,M,22,Apple,Yes,Urban,1,6,7.0,24.86,2,2,Bills,1
+791,19.0,M,12,Cranberry,Yes,Urban,1,8,4.0,94.29,4,3,Car,2
+792,43.0,M,31,Apple,Yes,Urban,0,13,17.0,22.33,1,1,Bills,1
+793,25.0,F,20,Banana,Yes,Urban,1,19,14.0,72.26,17,7,Wallet,6
+794,23.0,F,24,Apple,Yes,Urban,0,9,12.0,1.26,4,1,Transportation,4
+795,34.0,F,33,Cranberry,Yes,Urban,1,4,6.0,97.36,5,2,Bills,4
+796,31.0,F,36,Apple,Yes,Urban,1,5,6.0,94.9,4,1,Bills,4
+797,55.0,F,20,Apple,Yes,Rural,0,6,16.0,21.94,5,4,Mobile top-up,5
+798,28.0,F,32,Apple,Yes,Rural,0,4,3.0,10.43,2,2,Bills,1
+799,38.0,M,36,Apple,Yes,Urban,1,3,2.0,18.4,2,2,Mobile top-up,1
+800,36.0,M,36,Apple,Yes,Rural,0,2,3.0,9.58,1,1,Mobile top-up,1
+801,23.0,M,32,Apple,Yes,Urban,0,4,4.0,6.39,1,1,Car,1
+802,24.0,F,32,Apple,Yes,Urban,0,6,12.0,153.81,3,3,Mobile top-up,1
+803,41.0,F,32,Apple,Yes,Rural,1,9,11.0,32.37,7,5,Mobile top-up,4
+804,35.0,M,22,Banana,Yes,Urban,0,17,12.0,65.0,12,3,Car,10
+805,47.0,M,12,Apple,Yes,Urban,0,9,24.0,62.12,8,4,Bills,4
+806,33.0,M,21,Apple,Yes,Rural,0,11,22.0,410.57,6,5,Gaming,2
+807,24.0,F,36,Apple,Yes,Urban,1,18,20.0,25.5,30,3,Transportation,16
+808,19.0,M,21,Banana,Yes,Urban,0,15,7.0,21.48,4,3,Wallet,3
+809,22.0,F,36,Apple,Yes,Urban,1,9,16.0,10.21,1,1,Car,1
+810,32.0,M,31,Apple,Yes,Urban,2,6,7.0,65.01,5,4,Mobile top-up,4
+811,24.0,F,31,Dates,Yes,Urban,0,23,19.0,64.81,7,6,Wallet,4
+812,21.0,M,27,Banana,Yes,Urban,3,6,17.0,19.8,2,2,Bills,1
+813,24.0,F,11,Banana,Yes,Urban,0,9,18.0,64.95,5,2,Power bank,3
+814,28.0,M,32,Apple,Yes,Urban,0,2,1.0,7.98,1,1,Bills,1
+815,22.0,M,34,Cranberry,Yes,Urban,2,9,10.0,33.32,3,3,Car,1
+816,32.0,M,21,Banana,Yes,Urban,0,11,11.0,34.43,12,6,Car,10
+817,27.0,F,36,Apple,Yes,Urban,0,5,9.0,7.71,2,2,Power bank,1
+818,24.0,M,20,Apple,Yes,Urban,2,7,5.0,59.21,3,2,Wallet,2
+819,37.0,M,12,Apple,Yes,Urban,0,5,5.0,2.57,4,1,Car,4
+820,25.0,F,15,Banana,Yes,Urban,0,25,152.0,8.0,3,3,Car,2
+821,37.0,M,36,Apple,Yes,Urban,0,14,25.0,131.75,14,9,Mobile top-up,5
+822,25.0,M,36,Apple,Yes,Urban,1,14,21.0,61.97,9,5,Mobile top-up,9
+823,28.0,F,35,Dates,Yes,Urban,0,3,5.0,28.24,3,2,Car,2
+824,40.0,F,30,Apple,Yes,Urban,0,10,15.0,87.23,6,6,Wallet,2
+825,33.0,M,36,Apple,No,Urban,0,1,1.0,0.83,1,1,Mobile top-up,1
+826,30.0,M,27,Banana,Yes,Urban,0,13,15.0,29.29,12,5,Car,7
+827,38.0,F,27,Apple,Yes,Urban,0,11,32.0,107.9,12,6,Mobile top-up,7
+828,25.0,F,15,Banana,Yes,Urban,0,25,152.0,8.0,3,3,Car,2
+829,23.0,M,36,Apple,Yes,Urban,2,9,20.0,33.67,7,5,Car,7
+830,25.0,F,36,Apple,Yes,Urban,2,10,16.0,97.91,8,5,Wallet,6
+831,27.0,M,31,Apple,Yes,Urban,1,6,9.0,55.07,3,3,Bills,2
+832,33.0,F,36,Apple,Yes,Urban,0,7,14.0,4.14,3,2,Car,2
+833,46.0,F,36,Apple,Yes,Urban,1,2,2.0,17.8,1,1,Bills,1
+834,23.0,F,32,Apple,Yes,Urban,0,14,23.0,38.65,7,3,Mobile top-up,5
+835,34.0,M,1,Banana,Yes,Urban,0,1,2.0,0.57,1,1,Car,1
+836,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+837,26.0,F,32,Apple,Yes,Urban,0,11,10.0,0.91,1,1,Transportation,1
+838,25.0,M,27,Apple,Yes,Urban,0,3,4.0,42.26,4,3,Bills,2
+839,24.0,M,20,Cranberry,Yes,Urban,0,11,26.0,6.86,5,3,Power bank,3
+840,31.0,M,9,Cranberry,Yes,Urban,0,3,1.0,7.04,1,1,Wallet,1
+841,33.0,M,36,Cranberry,Yes,Urban,0,16,19.0,10.74,11,5,Power bank,6
+842,22.0,F,5,Banana,Yes,Urban,0,7,26.0,30.21,2,2,Delivery,2
+843,34.0,F,36,Banana,Yes,Urban,1,4,4.0,0.57,1,1,Power bank,1
+844,41.0,M,36,Apple,Yes,Urban,1,8,16.0,126.47,7,6,Bills,3
+845,26.0,F,34,Banana,Yes,Urban,0,9,7.0,45.74,2,2,Delivery,1
+846,29.0,M,34,Apple,Yes,Urban,0,1,1.0,2.14,1,1,Car,1
+847,22.0,M,23,Apple,Yes,Urban,0,5,3.0,0.29,1,1,Transportation,1
+848,31.0,M,14,Apple,Yes,Urban,0,2,12.0,15.09,5,1,Gaming,5
+849,22.0,M,32,Apple,Yes,Urban,0,6,12.0,2.96,1,1,Car,1
+850,25.0,M,8,Apple,Yes,Rural,0,3,,1.71,1,1,Mobile top-up,1
+851,38.0,F,36,Apple,Yes,Urban,0,7,5.0,84.8,5,3,Mobile top-up,4
+852,32.0,F,24,Banana,Yes,Urban,0,2,3.0,20.19,2,2,Bills,1
+853,41.0,M,35,Banana,Yes,Urban,1,2,,59.56,1,1,Wallet,1
+854,19.0,M,1,Cranberry,No,Urban,0,1,6.0,0.29,1,1,Car,1
+855,25.0,F,15,Banana,Yes,Urban,0,25,152.0,8.0,3,3,Car,2
+856,34.0,M,27,Apple,Yes,Urban,0,16,15.0,212.73,25,5,Transportation,13
+857,28.0,F,36,Banana,Yes,Urban,0,3,3.0,5.11,1,1,Delivery,1
+858,33.0,M,36,Cranberry,Yes,Urban,0,12,16.0,79.51,7,5,Car,4
+859,42.0,M,26,Apple,Yes,Rural,1,8,16.0,56.93,5,4,Bills,3
+860,27.0,F,36,Apple,Yes,Urban,0,16,17.0,25.13,12,3,Mobile top-up,10
+861,33.0,M,32,Banana,Yes,Urban,0,5,6.0,70.23,3,2,Car,2
+862,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+863,47.0,M,16,Apple,Yes,Urban,0,5,8.0,5.43,4,1,Mobile top-up,4
+864,24.0,M,19,Banana,Yes,Urban,0,2,16.0,1.57,2,2,Power bank,2
+865,39.0,M,29,Banana,Yes,Urban,0,6,5.0,176.91,4,4,Power bank,2
+866,25.0,F,36,Apple,Yes,Urban,1,16,21.0,62.33,14,9,Mobile top-up,5
+867,26.0,M,36,Apple,Yes,Urban,0,3,4.0,14.71,3,2,Mobile top-up,2
+868,25.0,M,36,Apple,Yes,Urban,0,18,7.0,10.39,4,3,Car,3
+869,24.0,F,34,Apple,Yes,Urban,0,9,5.0,8.49,3,1,Mobile top-up,3
+870,27.0,M,36,Apple,Yes,Urban,0,4,5.0,54.79,7,5,Power bank,2
+871,22.0,F,20,Apple,Yes,Urban,0,1,,0.57,1,1,Power bank,1
+872,20.0,F,36,Apple,Yes,Urban,1,4,1.0,3.17,2,2,Wallet,1
+873,33.0,M,36,Apple,Yes,Urban,3,10,34.0,28.42,3,3,Car,2
+874,42.0,M,26,Apple,Yes,Rural,1,8,16.0,56.93,5,4,Bills,3
+875,32.0,F,36,Apple,Yes,Urban,0,5,7.0,60.17,4,3,Bills,2
+876,33.0,M,36,Cranberry,Yes,Urban,0,15,9.0,7.14,9,1,Transportation,9
+877,25.0,M,16,Banana,Yes,Urban,0,6,11.0,60.69,4,3,Wallet,2
+878,19.0,F,13,Apple,Yes,Urban,0,5,3.0,3.69,1,1,Mobile top-up,1
+879,43.0,M,11,Apple,No,Urban,0,5,6.0,8.23,3,1,Mobile top-up,3
+880,24.0,M,21,Cranberry,Yes,Urban,1,8,8.0,14.71,5,3,Mobile top-up,4
+881,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+882,37.0,M,12,Apple,Yes,Urban,0,5,5.0,2.57,4,1,Car,4
+883,31.0,F,22,Cranberry,Yes,Urban,0,12,14.0,40.03,3,3,Bills,2
+884,22.0,M,21,Banana,Yes,Urban,0,13,21.0,15.57,28,2,Power bank,28
+885,28.0,M,32,Apple,Yes,Urban,0,3,1.0,1.43,2,1,Car,2
+886,34.0,F,27,Apple,Yes,Rural,1,8,13.0,87.72,8,5,Transportation,3
+887,31.0,F,27,Apple,Yes,Urban,0,5,7.0,3.57,1,1,Car,1
+888,33.0,M,21,Apple,Yes,Rural,0,11,22.0,410.57,6,5,Gaming,2
+889,28.0,F,36,Apple,Yes,Urban,1,12,16.0,29.76,10,5,Mobile top-up,6
+890,28.0,F,20,Apple,Yes,Rural,0,13,7.0,76.35,9,5,Mobile top-up,7
+891,25.0,F,36,Cranberry,Yes,Urban,3,9,5.0,35.55,3,2,Bills,2
+892,39.0,M,2,Apple,Yes,Urban,0,6,9.0,78.22,6,5,Car,2
+893,36.0,M,20,Apple,Yes,Urban,1,5,8.0,12.86,2,2,Bills,1
+894,21.0,F,22,Apple,Yes,Urban,0,4,2.0,7.8,3,2,Mobile top-up,2
+895,35.0,M,28,Apple,Yes,Urban,0,4,6.0,2.57,1,1,Wallet,1
+896,21.0,M,21,Apple,Yes,Urban,1,6,13.0,26.29,7,4,Transportation,4
+897,29.0,M,20,Apple,Yes,Urban,0,2,2.0,24.7,1,1,Bills,1
+898,36.0,F,2,Banana,Yes,Urban,0,2,4.0,2.29,1,1,Car,1
+899,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+900,35.0,M,36,Apple,Yes,Urban,1,8,10.0,8.86,2,1,Mobile top-up,2
+901,34.0,F,36,Apple,Yes,Urban,0,7,4.0,80.52,8,3,Wallet,5
+902,26.0,M,26,Banana,Yes,Urban,1,7,16.0,35.26,1,1,Bills,1
+903,35.0,M,36,Apple,Yes,Urban,0,3,5.0,47.83,3,2,Bills,2
+904,28.0,M,23,Apple,Yes,Urban,0,3,6.0,24.24,2,1,Bills,2
+905,42.0,M,20,Apple,Yes,Urban,1,7,7.0,32.4,5,5,Car,2
+906,26.0,F,34,Apple,Yes,Urban,1,6,9.0,29.27,2,2,Mobile top-up,1
+907,44.0,F,25,Banana,Yes,Urban,0,28,88.0,18.63,2,2,Bills,2
+908,47.0,M,34,Apple,Yes,Urban,1,4,4.0,40.67,3,2,Mobile top-up,2
+909,33.0,F,33,Apple,Yes,Urban,0,7,6.0,8.43,3,2,Car,3
+910,33.0,M,36,Apple,Yes,Urban,1,4,6.0,73.27,6,5,Mobile top-up,3
+911,48.0,F,33,Apple,Yes,Urban,0,2,2.0,1.43,1,1,Transportation,1
+912,28.0,F,35,Apple,Yes,Urban,1,5,5.0,3.69,1,1,Mobile top-up,1
+913,35.0,F,36,Cranberry,Yes,Rural,0,1,1.0,20.37,1,1,Bills,1
+914,25.0,M,19,Banana,Yes,Urban,0,13,14.0,56.17,6,5,Wallet,5
+915,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+916,35.0,F,34,Apple,Yes,Rural,0,9,11.0,62.12,7,5,Mobile top-up,5
+917,24.0,M,32,Apple,Yes,Urban,0,10,8.0,19.01,7,3,Mobile top-up,6
+918,23.0,M,21,Banana,No,Urban,0,4,2.0,3.43,2,2,Car,2
+919,34.0,F,11,Banana,Yes,Urban,0,2,5.0,11.71,1,1,Car,1
+920,31.0,M,32,Apple,Yes,Urban,0,3,4.0,11.62,1,1,Bills,1
+921,48.0,M,23,Apple,Yes,Urban,0,11,9.0,34.3,6,4,Wallet,4
+922,23.0,F,12,Banana,Yes,Urban,0,8,10.0,23.69,1,1,Bills,1
+923,33.0,M,36,Apple,Yes,Urban,0,13,8.0,17.33,2,2,Wallet,1
+924,28.0,F,36,Cranberry,Yes,Urban,1,19,57.0,75.23,13,5,Power bank,6
+925,34.0,M,32,Apple,Yes,Urban,0,1,2.0,2.57,1,1,Car,1
+926,37.0,M,36,Apple,Yes,Urban,1,4,8.0,71.87,6,5,Mobile top-up,3
+927,21.0,M,36,Apple,Yes,Urban,1,16,8.0,41.1,15,4,Wallet,8
+928,22.0,M,22,Banana,Yes,Urban,0,2,,4.29,1,1,Car,1
+929,37.0,M,36,Apple,Yes,Urban,0,14,25.0,131.75,14,9,Mobile top-up,5
+930,39.0,F,29,Apple,Yes,Urban,0,2,7.0,0.14,1,1,Wallet,1
+931,28.0,M,36,Apple,Yes,Urban,0,2,3.0,4.0,1,1,Car,1
+932,23.0,F,31,Apple,Yes,Urban,1,11,6.0,9.04,4,1,Wallet,4
+933,50.0,F,35,Apple,Yes,Urban,0,6,11.0,1.71,1,1,Mobile top-up,1
+934,57.0,F,20,Apple,Yes,Urban,0,12,22.0,74.82,12,5,Mobile top-up,8
+935,41.0,F,31,Banana,Yes,Urban,0,4,3.0,19.29,3,1,Bills,3
+936,26.0,F,21,Banana,Yes,Urban,0,8,8.0,4.29,4,3,Car,3
+937,25.0,M,22,Apple,No,Urban,0,5,7.0,2.68,3,3,Car,3
+938,25.0,M,36,Apple,Yes,Urban,0,13,2.0,14.29,8,3,Mobile top-up,7
+939,23.0,M,23,Banana,Yes,Urban,1,3,4.0,9.82,2,2,Car,2
+940,52.0,M,27,Apple,Yes,Rural,1,9,7.0,14.86,6,3,Mobile top-up,5
+941,33.0,M,36,Cranberry,Yes,Urban,0,15,9.0,7.14,9,1,Transportation,9
+942,57.0,F,36,Banana,Yes,Urban,1,13,4.0,25.89,4,3,Car,2
+943,34.0,M,35,Banana,Yes,Urban,0,2,2.0,1.14,2,1,Power bank,2
+944,44.0,M,36,Apple,Yes,Urban,0,6,10.0,43.44,2,2,Bills,2
+945,43.0,M,27,Banana,No,Urban,1,3,2.0,0.71,1,1,Car,1
+946,41.0,M,12,Apple,Yes,Rural,1,17,29.0,21.29,18,2,Mobile top-up,17
+947,28.0,M,18,Apple,Yes,Urban,0,3,5.0,2.86,2,2,Power bank,2
+948,38.0,M,34,Banana,Yes,Urban,0,8,16.0,57.81,6,3,Car,5
+949,38.0,M,17,Cranberry,Yes,Urban,1,3,8.0,2.96,1,1,Car,1
+950,48.0,M,8,Cranberry,Yes,Urban,0,7,12.0,30.33,2,2,Bills,2
+951,25.0,F,36,Apple,Yes,Urban,0,4,10.0,1.43,1,1,Transportation,1
+952,25.0,M,36,Apple,Yes,Urban,0,5,2.0,7.71,2,2,Mobile top-up,1
+953,48.0,M,30,Banana,Yes,Urban,0,1,3.0,5.71,1,1,Car,1
+954,25.0,F,37,Apple,Yes,Urban,1,3,3.0,26.11,1,1,Bills,1
+955,24.0,M,36,Apple,Yes,Urban,2,6,7.0,36.49,7,3,Mobile top-up,6
+956,22.0,F,13,Apple,Yes,Urban,0,5,12.0,67.17,3,3,Mobile top-up,2
+957,25.0,F,15,Banana,Yes,Urban,0,25,152.0,8.0,3,3,Car,2
+958,30.0,M,36,Apple,Yes,Urban,1,8,11.0,32.37,3,2,Mobile top-up,2
+959,42.0,M,36,Apple,Yes,Urban,1,7,4.0,37.43,5,3,Mobile top-up,4
+960,25.0,F,32,Banana,Yes,Urban,0,12,19.0,9.39,7,4,Car,4
+961,35.0,M,22,Banana,Yes,Urban,0,17,12.0,65.0,12,3,Car,10
+962,30.0,M,19,Apple,Yes,Rural,1,3,4.0,58.06,3,2,Bills,2
+963,26.0,F,36,Apple,Yes,Rural,0,15,25.0,400.21,13,9,Car,5
+964,39.0,M,36,Banana,No,Urban,0,4,4.0,1.43,2,2,Car,1
+965,42.0,M,26,Banana,Yes,Urban,0,1,,14.97,1,1,Bills,1
+966,38.0,F,36,Apple,Yes,Urban,0,16,35.0,75.02,18,6,Mobile top-up,13
+967,31.0,F,34,Banana,Yes,Urban,0,5,1.0,56.23,2,2,Bills,2
+968,29.0,F,36,Apple,Yes,Urban,1,19,40.0,211.79,16,11,Wallet,10
+969,22.0,M,13,Banana,Yes,Urban,0,5,4.0,2.14,3,3,Car,2
+970,20.0,M,36,Apple,Yes,Urban,0,8,13.0,20.91,9,4,Mobile top-up,4
+971,49.0,M,31,Apple,Yes,Urban,1,10,10.0,36.29,8,2,Mobile top-up,7
+972,20.0,F,36,Apple,Yes,Urban,1,3,2.0,3.43,2,1,Mobile top-up,2
+973,27.0,M,16,Apple,Yes,Rural,0,1,2.0,0.83,1,1,Mobile top-up,1
+974,20.0,M,20,Banana,Yes,Rural,0,9,8.0,62.21,5,2,Wallet,3
+975,21.0,F,36,Apple,Yes,Urban,2,11,16.0,26.39,6,3,Mobile top-up,3
+976,21.0,F,36,Apple,Yes,Urban,1,4,17.0,4.0,7,3,Power bank,6
+977,29.0,M,36,Banana,Yes,Urban,0,10,6.0,21.71,11,5,Car,7
+978,31.0,M,36,Apple,Yes,Rural,1,8,6.0,58.77,7,3,Mobile top-up,6
+979,33.0,M,21,Apple,Yes,Rural,0,11,22.0,410.57,6,5,Gaming,2
+980,32.0,F,22,Banana,Yes,Urban,0,5,2.0,20.23,4,1,Wallet,4
+981,38.0,F,36,Apple,Yes,Urban,1,4,4.0,23.79,2,2,Bills,1
+982,31.0,F,28,Apple,Yes,Rural,1,12,7.0,28.6,7,4,Mobile top-up,6
+983,42.0,F,20,Banana,Yes,Urban,0,7,13.0,23.23,5,3,Mobile top-up,4
+984,25.0,F,13,Apple,Yes,Urban,0,4,4.0,12.86,4,2,Mobile top-up,4
+985,57.0,M,27,Apple,No,Urban,1,4,5.0,8.86,2,2,Mobile top-up,2
+986,24.0,M,36,Apple,Yes,Urban,1,13,15.0,100.57,12,8,Mobile top-up,6
+987,33.0,F,36,Apple,Yes,Urban,1,15,67.0,160.58,9,4,Wallet,5
+988,35.0,F,32,Apple,Yes,Urban,1,4,3.0,2.43,2,1,Mobile top-up,2
+989,35.0,M,12,Banana,Yes,Urban,1,4,9.0,1.57,3,2,Power bank,3
+990,33.0,M,32,Apple,Yes,Urban,0,7,5.0,37.46,3,2,Power bank,2
+991,21.0,M,12,Apple,No,Urban,0,8,10.0,1.71,1,1,Mobile top-up,1
+992,29.0,M,36,Apple,Yes,Urban,1,14,12.0,36.14,14,3,Mobile top-up,12
+993,28.0,M,36,Banana,Yes,Urban,1,7,14.0,18.28,4,2,Car,4
+994,33.0,F,36,Apple,Yes,Urban,0,10,13.0,383.32,14,5,Bills,10
+995,22.0,M,28,Apple,Yes,Urban,0,5,1.0,10.29,1,1,Wallet,1
+996,22.0,F,18,Apple,Yes,Rural,0,13,16.0,62.42,14,5,Mobile top-up,12
+997,37.0,F,36,Apple,Yes,Urban,0,10,12.0,34.97,4,3,Wallet,2
+998,43.0,M,36,Apple,Yes,Rural,1,2,2.0,19.61,1,1,Mobile top-up,1
+999,31.0,M,30,Banana,Yes,Urban,0,5,2.0,1.43,1,1,Power bank,1
